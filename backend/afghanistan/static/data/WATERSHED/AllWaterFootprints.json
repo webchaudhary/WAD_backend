@@ -1,0 +1,371 @@
+[
+  {
+    "BASIN": "Amu Darya",
+    "WATERSHED": "Ab-i-Rustaq",
+    "irrigated_green": 2887944.767,
+    "total": 9159761.951,
+    "irrigated_blue": 5795046.573,
+    "rainfed_green": 2855991.06,
+    "rainfed_blue": 576624.103
+  },
+  {
+    "BASIN": "Helmand",
+    "WATERSHED": "Adraskan Rod",
+    "irrigated_green": 302456.177,
+    "total": 1332572.907,
+    "irrigated_blue": 1114064.914,
+    "rainfed_green": 214821.5103,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Kabul (Indus)",
+    "WATERSHED": "Alingar",
+    "irrigated_green": 546238.6557,
+    "total": 1838880.363,
+    "irrigated_blue": 1660768.96,
+    "rainfed_green": 311388.499,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Helmand",
+    "WATERSHED": "Arghistan",
+    "irrigated_green": 173574.2473,
+    "total": 680167.516,
+    "irrigated_blue": 517676.4827,
+    "rainfed_green": 114145.251,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Harirud-Murghab",
+    "WATERSHED": "Bala Murghab",
+    "irrigated_green": 553449.7063,
+    "total": 983266.7777,
+    "irrigated_blue": 442374.1447,
+    "rainfed_green": 496263.0703,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Northern",
+    "WATERSHED": "Balkhab",
+    "irrigated_green": 2151848.32,
+    "total": 3940949.713,
+    "irrigated_blue": 3892243.428,
+    "rainfed_green": 468406.7977,
+    "rainfed_blue": 31435.608
+  },
+  {
+    "BASIN": "Helmand",
+    "WATERSHED": "Chagay",
+    "irrigated_green": null,
+    "total": 800.0013636,
+    "irrigated_blue": null,
+    "rainfed_green": 800.0013636,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Kabul (Indus)",
+    "WATERSHED": "Chak wa Logar Rod",
+    "irrigated_green": 568069.7707,
+    "total": 991926.4663,
+    "irrigated_blue": 321602.253,
+    "rainfed_green": 214305.9983,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Helmand",
+    "WATERSHED": "Dasht-i Margo",
+    "irrigated_green": null,
+    "total": null,
+    "irrigated_blue": null,
+    "rainfed_green": null,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Helmand",
+    "WATERSHED": "Dasht-i Naomid",
+    "irrigated_green": 24975.02167,
+    "total": 118927.9513,
+    "irrigated_blue": 170352.208,
+    "rainfed_green": 56217.275,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Helmand",
+    "WATERSHED": "Dasht-i Nawur",
+    "irrigated_green": 190053.8553,
+    "total": 195706.3533,
+    "irrigated_blue": 34566.873,
+    "rainfed_green": 67705.943,
+    "rainfed_blue": 5032.745333
+  },
+  {
+    "BASIN": "Amu Darya",
+    "WATERSHED": "Dasht-i Shortepa",
+    "irrigated_green": 1145557.863,
+    "total": 3642412.64,
+    "irrigated_blue": 3318995.307,
+    "rainfed_green": 247279.2333,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Helmand",
+    "WATERSHED": "Farah Rod",
+    "irrigated_green": 74578.971,
+    "total": 530039.9713,
+    "irrigated_blue": 510445.5177,
+    "rainfed_green": 94989.824,
+    "rainfed_blue": 97.037
+  },
+  {
+    "BASIN": "Kabul (Indus)",
+    "WATERSHED": "Ghorband wa Panjsher",
+    "irrigated_green": 1283035.09,
+    "total": 1739089.534,
+    "irrigated_blue": 650597.8743,
+    "rainfed_green": 438954.6323,
+    "rainfed_blue": 987.2094118
+  },
+  {
+    "BASIN": "Kabul (Indus)",
+    "WATERSHED": "Gomal",
+    "irrigated_green": 82507.48433,
+    "total": 173414.8627,
+    "irrigated_blue": 120295.6507,
+    "rainfed_green": 51361.11467,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Kabul (Indus)",
+    "WATERSHED": "Kabul",
+    "irrigated_green": 1382632.723,
+    "total": 2569546.008,
+    "irrigated_blue": 1242020.31,
+    "rainfed_green": 557459.188,
+    "rainfed_blue": 607.6394118
+  },
+  {
+    "BASIN": "Amu Darya",
+    "WATERSHED": "Khanabad",
+    "irrigated_green": 1388401.208,
+    "total": 4288275.654,
+    "irrigated_blue": 3168835.279,
+    "rainfed_green": 1084807.25,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Helmand",
+    "WATERSHED": "Khash Rod",
+    "irrigated_green": 77103.57067,
+    "total": 1434945.018,
+    "irrigated_blue": 1609742.92,
+    "rainfed_green": 40712.31967,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Northern",
+    "WATERSHED": "Khulm",
+    "irrigated_green": 1031079.322,
+    "total": 2005401.975,
+    "irrigated_blue": 1625619.176,
+    "rainfed_green": 895335.7853,
+    "rainfed_blue": 630.293
+  },
+  {
+    "BASIN": "Helmand",
+    "WATERSHED": "Khuspas Rod",
+    "irrigated_green": 145816.2937,
+    "total": 814457.307,
+    "irrigated_blue": 841552.41,
+    "rainfed_green": 19829.91967,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Amu Darya",
+    "WATERSHED": "Kokcha",
+    "irrigated_green": 849509.3863,
+    "total": 2514566.507,
+    "irrigated_blue": 954518.9317,
+    "rainfed_green": 1436374.052,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Kabul (Indus)",
+    "WATERSHED": "Kunar",
+    "irrigated_green": 832820.834,
+    "total": 1539335.809,
+    "irrigated_blue": 893943.3883,
+    "rainfed_green": 615636.7257,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Amu Darya",
+    "WATERSHED": "Kunduz",
+    "irrigated_green": 869833.6777,
+    "total": 2277113.514,
+    "irrigated_blue": 2180339.42,
+    "rainfed_green": 461107.7487,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Harirud-Murghab",
+    "WATERSHED": "Kushk wa Kashan Rod",
+    "irrigated_green": 302327.8217,
+    "total": 987746.8937,
+    "irrigated_blue": 369361.0227,
+    "rainfed_green": 658745.2573,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Helmand",
+    "WATERSHED": "Lower Arghandab",
+    "irrigated_green": 370265.894,
+    "total": 2401727.414,
+    "irrigated_blue": 2332937.713,
+    "rainfed_green": 126913.638,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Harirud-Murghab",
+    "WATERSHED": "Lower Hari Rod",
+    "irrigated_green": 1045913.398,
+    "total": 2333661.527,
+    "irrigated_blue": 2439689.908,
+    "rainfed_green": 296829.5763,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Helmand",
+    "WATERSHED": "Lower Hilmand",
+    "irrigated_green": 449215.0107,
+    "total": 6725571.612,
+    "irrigated_blue": 7086177.612,
+    "rainfed_green": 2903.938,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Helmand",
+    "WATERSHED": "Middle Hilmand",
+    "irrigated_green": 322762.9037,
+    "total": 1309451.973,
+    "irrigated_blue": 1036302.068,
+    "rainfed_green": 119504.1543,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Amu Darya",
+    "WATERSHED": "Panj",
+    "irrigated_green": 215265.3663,
+    "total": 474069.1487,
+    "irrigated_blue": 94233.72633,
+    "rainfed_green": 348936.0987,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Helmand",
+    "WATERSHED": "Pishin Lora",
+    "irrigated_green": 310125.4627,
+    "total": 2377531.462,
+    "irrigated_blue": 3304092.572,
+    "rainfed_green": 72521.22433,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Helmand",
+    "WATERSHED": "Registan",
+    "irrigated_green": 38584.02867,
+    "total": 55332.37667,
+    "irrigated_blue": 549770.7827,
+    "rainfed_green": 35566.94,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Helmand",
+    "WATERSHED": "Registan-i Sedi",
+    "irrigated_green": null,
+    "total": 228.5625,
+    "irrigated_blue": null,
+    "rainfed_green": 228.5625,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Helmand",
+    "WATERSHED": "Sardih wa Ghazni Rod",
+    "irrigated_green": 567323.2433,
+    "total": 1174918.747,
+    "irrigated_blue": 521135.7073,
+    "rainfed_green": 194588.2657,
+    "rainfed_blue": 105645.379
+  },
+  {
+    "BASIN": "Northern",
+    "WATERSHED": "Sari Pul",
+    "irrigated_green": 1312682.85,
+    "total": 2255483.694,
+    "irrigated_blue": 1480023.567,
+    "rainfed_green": 751168.4427,
+    "rainfed_blue": 22495.96333
+  },
+  {
+    "BASIN": "Kabul (Indus)",
+    "WATERSHED": "Shamal",
+    "irrigated_green": 466740.3507,
+    "total": 1146152.184,
+    "irrigated_blue": 303747.845,
+    "rainfed_green": 474715.9193,
+    "rainfed_blue": 1167.045294
+  },
+  {
+    "BASIN": "Northern",
+    "WATERSHED": "Shirin Tagab",
+    "irrigated_green": 1710547.947,
+    "total": 2920836.326,
+    "irrigated_blue": 1758454.625,
+    "rainfed_green": 1012098.765,
+    "rainfed_blue": 88559.076
+  },
+  {
+    "BASIN": "Helmand",
+    "WATERSHED": "Sistan-Helmand",
+    "irrigated_green": 78266.52033,
+    "total": 2987082.395,
+    "irrigated_blue": 3053208.027,
+    "rainfed_green": 791.5081481,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Helmand",
+    "WATERSHED": "Tarnak Rod",
+    "irrigated_green": 518594.5343,
+    "total": 1620121.664,
+    "irrigated_blue": 1024151.127,
+    "rainfed_green": 166468.791,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Helmand",
+    "WATERSHED": "Upper Arghandab",
+    "irrigated_green": 215758.4173,
+    "total": 696486.9367,
+    "irrigated_blue": 352244.8977,
+    "rainfed_green": 165396.1477,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Harirud-Murghab",
+    "WATERSHED": "Upper Hari Rod",
+    "irrigated_green": 124790.953,
+    "total": 340356.443,
+    "irrigated_blue": 121286.9197,
+    "rainfed_green": 142896.3327,
+    "rainfed_blue": null
+  },
+  {
+    "BASIN": "Helmand",
+    "WATERSHED": "Upper Helmand",
+    "irrigated_green": 161983.195,
+    "total": 407287.104,
+    "irrigated_blue": 211314.8833,
+    "rainfed_green": 90708.35667,
+    "rainfed_blue": null
+  }
+ ]

@@ -1,0 +1,3282 @@
+[
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Ghazni",
+    "DISTRICT": "Ab Band",
+    "irrigated_green": 516106,
+    "total": 1240504,
+    "irrigated_blue": 743657,
+    "rainfed_green": 276237,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Badghis",
+    "DISTRICT": "Ab Kamari",
+    "irrigated_green": 482958,
+    "total": 1085843,
+    "irrigated_blue": 400449,
+    "rainfed_green": 839217,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nangarhar",
+    "DISTRICT": "Achin",
+    "irrigated_green": 1936258,
+    "total": 4014388,
+    "irrigated_blue": 1698627,
+    "rainfed_green": 1098129,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hirat",
+    "DISTRICT": "Adraskan",
+    "irrigated_green": 128472,
+    "total": 475566,
+    "irrigated_blue": 255725,
+    "rainfed_green": 237835,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Ghazni",
+    "DISTRICT": "Ajristan",
+    "irrigated_green": 221625,
+    "total": 269877,
+    "irrigated_blue": 98922,
+    "rainfed_green": 66993,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kapisa",
+    "DISTRICT": "Alasay",
+    "irrigated_green": 420384,
+    "total": 1194359,
+    "irrigated_blue": 200371,
+    "rainfed_green": 573604,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kunduz",
+    "DISTRICT": "Ali abad",
+    "irrigated_green": 880008,
+    "total": 2118818,
+    "irrigated_blue": 1641747,
+    "rainfed_green": 605765,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Laghman",
+    "DISTRICT": "Alingar",
+    "irrigated_green": 755091,
+    "total": 3801459,
+    "irrigated_blue": 2564200,
+    "rainfed_green": 547614,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Laghman",
+    "DISTRICT": "Alishing",
+    "irrigated_green": 606786,
+    "total": 3254760,
+    "irrigated_blue": 2083765,
+    "rainfed_green": 564209,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Faryab",
+    "DISTRICT": "Almar",
+    "irrigated_green": 2546323,
+    "total": 3710725,
+    "irrigated_blue": 1796073,
+    "rainfed_green": 1239424,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Farah",
+    "DISTRICT": "Anar Dara",
+    "irrigated_green": 31413,
+    "total": 193906,
+    "irrigated_blue": 210320,
+    "rainfed_green": 19446,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Ghazni",
+    "DISTRICT": "Andar",
+    "irrigated_green": 1504070,
+    "total": 3054201,
+    "irrigated_blue": 1471045,
+    "rainfed_green": 229726,
+    "rainfed_blue": 349
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Baghlan",
+    "DISTRICT": "Andarab",
+    "irrigated_green": 671971,
+    "total": 1846450,
+    "irrigated_blue": 684410,
+    "rainfed_green": 672834,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Faryab",
+    "DISTRICT": "Andkhoy",
+    "irrigated_green": 5990264,
+    "total": 5204065,
+    "irrigated_blue": 10842594,
+    "rainfed_green": 681730,
+    "rainfed_blue": 34772
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Jawzjan",
+    "DISTRICT": "Aqcha",
+    "irrigated_green": 3148114,
+    "total": 3886726,
+    "irrigated_blue": 4811898,
+    "rainfed_green": 570262,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kandahar",
+    "DISTRICT": "Arghandab",
+    "irrigated_green": 122847,
+    "total": 671912,
+    "irrigated_blue": 476943,
+    "rainfed_green": 273922,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Zabul",
+    "DISTRICT": "Arghandab",
+    "irrigated_green": 224439,
+    "total": 779143,
+    "irrigated_blue": 400228,
+    "rainfed_green": 173997,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kandahar",
+    "DISTRICT": "Arghistan",
+    "irrigated_green": 97989,
+    "total": 406982,
+    "irrigated_blue": 230844,
+    "rainfed_green": 142786,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kunar",
+    "DISTRICT": "Asad abad",
+    "irrigated_green": 628704,
+    "total": 1730491,
+    "irrigated_blue": 565601,
+    "rainfed_green": 775047,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Zabul",
+    "DISTRICT": "Atghar",
+    "irrigated_green": 203798,
+    "total": 802157,
+    "irrigated_blue": 493953,
+    "rainfed_green": 115075,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Samangan",
+    "DISTRICT": "Aybak",
+    "irrigated_green": 2086024,
+    "total": 2715488,
+    "irrigated_blue": 3320323,
+    "rainfed_green": 1677575,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktya",
+    "DISTRICT": "Azro",
+    "irrigated_green": 72635,
+    "total": 351805,
+    "irrigated_blue": 19853,
+    "rainfed_green": 267868,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Baghlan",
+    "DISTRICT": "Baghlan City",
+    "irrigated_green": 3578876,
+    "total": 9118406,
+    "irrigated_blue": 9604107,
+    "rainfed_green": 777990,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Baghlan",
+    "DISTRICT": "Baghlani Jadid",
+    "irrigated_green": 3480810,
+    "total": 3851775,
+    "irrigated_blue": 9822662,
+    "rainfed_green": 658941,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Parwan",
+    "DISTRICT": "Bagram",
+    "irrigated_green": 3787797,
+    "total": 4882147,
+    "irrigated_blue": 1061238,
+    "rainfed_green": 1041934,
+    "rainfed_blue": 987
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kabul",
+    "DISTRICT": "Bagrami",
+    "irrigated_green": 915368,
+    "total": 2318335,
+    "irrigated_blue": 1323243,
+    "rainfed_green": 764749,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Badakhshan",
+    "DISTRICT": "Baharak",
+    "irrigated_green": 476694,
+    "total": 709750,
+    "irrigated_blue": 97160,
+    "rainfed_green": 343280,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Khost",
+    "DISTRICT": "Bak",
+    "irrigated_green": 735380,
+    "total": 1312680,
+    "irrigated_blue": 345545,
+    "rainfed_green": 288083,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Farah",
+    "DISTRICT": "Bakwa",
+    "irrigated_green": 129918,
+    "total": 671504,
+    "irrigated_blue": 692973,
+    "rainfed_green": 4236,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Farah",
+    "DISTRICT": "Bala Buluk",
+    "irrigated_green": 50570,
+    "total": 296191,
+    "irrigated_blue": 277755,
+    "rainfed_green": 22656,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Balkh",
+    "DISTRICT": "Balkh",
+    "irrigated_green": 6283577,
+    "total": 18608620,
+    "irrigated_blue": 11942367,
+    "rainfed_green": 382676,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Sari Pul",
+    "DISTRICT": "Balkhab",
+    "irrigated_green": 372446,
+    "total": 742081,
+    "irrigated_blue": 148780,
+    "rainfed_green": 303016,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Bamyan",
+    "DISTRICT": "Bamyan City",
+    "irrigated_green": 172975,
+    "total": 211089,
+    "irrigated_blue": 32538,
+    "rainfed_green": 32919,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Takhar",
+    "DISTRICT": "Bangi",
+    "irrigated_green": 1268408,
+    "total": 6037124,
+    "irrigated_blue": 2790389,
+    "rainfed_green": 2993026,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kunar",
+    "DISTRICT": "Bar Kunar",
+    "irrigated_green": 419363,
+    "total": 850352,
+    "irrigated_blue": 223885,
+    "rainfed_green": 492992,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Logar",
+    "DISTRICT": "Baraki Barak",
+    "irrigated_green": 2549143,
+    "total": 4043544,
+    "irrigated_blue": 1308560,
+    "rainfed_green": 397864,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nuristan",
+    "DISTRICT": "Bargi Matal",
+    "irrigated_green": 136938,
+    "total": 697566,
+    "irrigated_blue": 19261,
+    "rainfed_green": 572606,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nangarhar",
+    "DISTRICT": "Bati Kot",
+    "irrigated_green": 8747899,
+    "total": 17071508,
+    "irrigated_blue": 8321483,
+    "rainfed_green": 3454,
+    "rainfed_blue": 596
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Faryab",
+    "DISTRICT": "Bilchiragh",
+    "irrigated_green": 643316,
+    "total": 1473963,
+    "irrigated_blue": 372972,
+    "rainfed_green": 839861,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hilmand",
+    "DISTRICT": "Bughran",
+    "irrigated_green": 161578,
+    "total": 480164,
+    "irrigated_blue": 229364,
+    "rainfed_green": 145900,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Baghlan",
+    "DISTRICT": "Burka",
+    "irrigated_green": 1235209,
+    "total": 5089481,
+    "irrigated_blue": 4720433,
+    "rainfed_green": 691832,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktika",
+    "DISTRICT": "Burmul",
+    "irrigated_green": 175672,
+    "total": 496081,
+    "irrigated_blue": 174048,
+    "rainfed_green": 165264,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Ghor",
+    "DISTRICT": "Chaghcharan",
+    "irrigated_green": 69464,
+    "total": 159833,
+    "irrigated_blue": 69852,
+    "rainfed_green": 85806,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Takhar",
+    "DISTRICT": "Chah Ab",
+    "irrigated_green": 72885,
+    "total": 3193833,
+    "irrigated_blue": 108527,
+    "rainfed_green": 3141734,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kabul",
+    "DISTRICT": "Chahar Asyab",
+    "irrigated_green": 407758,
+    "total": 1091562,
+    "irrigated_blue": 594749,
+    "rainfed_green": 119107,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Parwan",
+    "DISTRICT": "Chaharikar",
+    "irrigated_green": 2553433,
+    "total": 3318419,
+    "irrigated_blue": 581422,
+    "rainfed_green": 382439,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Wardak",
+    "DISTRICT": "Chak",
+    "irrigated_green": 257984,
+    "total": 535246,
+    "irrigated_blue": 107346,
+    "rainfed_green": 169916,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nimroz",
+    "DISTRICT": "Chakhansur",
+    "irrigated_green": 82815,
+    "total": 3057986,
+    "irrigated_blue": 2987809,
+    "rainfed_green": 1632,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Takhar",
+    "DISTRICT": "Chal",
+    "irrigated_green": 24212,
+    "total": 1229585,
+    "irrigated_blue": 29835,
+    "rainfed_green": 1189050,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktya",
+    "DISTRICT": "Chamkani",
+    "irrigated_green": 445469,
+    "total": 907340,
+    "irrigated_blue": 131928,
+    "rainfed_green": 445422,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kunar",
+    "DISTRICT": "Chapa Dara",
+    "irrigated_green": 636588,
+    "total": 839113,
+    "irrigated_blue": 723743,
+    "rainfed_green": 256114,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nangarhar",
+    "DISTRICT": "Chaparhar",
+    "irrigated_green": 2769412,
+    "total": 4784390,
+    "irrigated_blue": 1773271,
+    "rainfed_green": 397068,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Balkh",
+    "DISTRICT": "Char Bolak",
+    "irrigated_green": 7466767,
+    "total": 22052061,
+    "irrigated_blue": 14240894,
+    "rainfed_green": 344400,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nimroz",
+    "DISTRICT": "Char Burjak",
+    "irrigated_green": 57335,
+    "total": 2307469,
+    "irrigated_blue": 2258854,
+    "rainfed_green": 5044,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kunduz",
+    "DISTRICT": "Char Dara",
+    "irrigated_green": 3278779,
+    "total": 6065023,
+    "irrigated_blue": 10040595,
+    "rainfed_green": 456866,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Logar",
+    "DISTRICT": "Charkh",
+    "irrigated_green": 644603,
+    "total": 1275912,
+    "irrigated_blue": 303497,
+    "rainfed_green": 372333,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Balkh",
+    "DISTRICT": "Charkint",
+    "irrigated_green": 124701,
+    "total": 492640,
+    "irrigated_blue": 214818,
+    "rainfed_green": 407760,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kunar",
+    "DISTRICT": "Chawkay",
+    "irrigated_green": 993516,
+    "total": 4499951,
+    "irrigated_blue": 1812789,
+    "rainfed_green": 1765976,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Balkh",
+    "DISTRICT": "Chimtal",
+    "irrigated_green": 3076325,
+    "total": 4342631,
+    "irrigated_blue": 6118717,
+    "rainfed_green": 471035,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hirat",
+    "DISTRICT": "Chishti Sharif",
+    "irrigated_green": 152631,
+    "total": 503414,
+    "irrigated_blue": 162692,
+    "rainfed_green": 247214,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Uruzgan",
+    "DISTRICT": "Chora",
+    "irrigated_green": 137809,
+    "total": 485541,
+    "irrigated_blue": 259909,
+    "rainfed_green": 124297,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Baghlan",
+    "DISTRICT": "Dahana-I-Ghori",
+    "irrigated_green": 140937,
+    "total": 668828,
+    "irrigated_blue": 469876,
+    "rainfed_green": 479399,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kandahar",
+    "DISTRICT": "Daman",
+    "irrigated_green": 347138,
+    "total": 1369217,
+    "irrigated_blue": 2044408,
+    "rainfed_green": 95275,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktya",
+    "DISTRICT": "Dand Wa Patan",
+    "irrigated_green": 325462,
+    "total": 945236,
+    "irrigated_blue": 93972,
+    "rainfed_green": 525803,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kunar",
+    "DISTRICT": "Dangam",
+    "irrigated_green": 616941,
+    "total": 1811525,
+    "irrigated_blue": 486511,
+    "rainfed_green": 708073,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nangarhar",
+    "DISTRICT": "Dara-I-Nur",
+    "irrigated_green": 995326,
+    "total": 3306450,
+    "irrigated_blue": 755821,
+    "rainfed_green": 1606604,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kunar",
+    "DISTRICT": "Dara-i-Pech",
+    "irrigated_green": 553730,
+    "total": 1687855,
+    "irrigated_blue": 673976,
+    "rainfed_green": 460148,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Samangan",
+    "DISTRICT": "Dara-i-Suf",
+    "irrigated_green": 303865,
+    "total": 1219777,
+    "irrigated_blue": 238493,
+    "rainfed_green": 1048247,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Takhar",
+    "DISTRICT": "Darqad",
+    "irrigated_green": 2271160,
+    "total": 11298438,
+    "irrigated_blue": 3912467,
+    "rainfed_green": 5187003,
+    "rainfed_blue": 667410
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Badakhshan",
+    "DISTRICT": "Darwaz",
+    "irrigated_green": 207537,
+    "total": 329705,
+    "irrigated_blue": 67355,
+    "rainfed_green": 197114,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Jawzjan",
+    "DISTRICT": "Darzab",
+    "irrigated_green": 656826,
+    "total": 1447353,
+    "irrigated_blue": 408629,
+    "rainfed_green": 912422,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kunduz",
+    "DISTRICT": "Dashti Archi",
+    "irrigated_green": 4896419,
+    "total": 8774910,
+    "irrigated_blue": 10170352,
+    "rainfed_green": 593919,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Balkh",
+    "DISTRICT": "Dawlat abad",
+    "irrigated_green": 5687599,
+    "total": 18911159,
+    "irrigated_blue": 12995643,
+    "rainfed_green": 237191,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Faryab",
+    "DISTRICT": "Dawlat abad",
+    "irrigated_green": 1796803,
+    "total": 1865937,
+    "irrigated_blue": 1258720,
+    "rainfed_green": 1071781,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Laghman",
+    "DISTRICT": "Dawlat Shah",
+    "irrigated_green": 288306,
+    "total": 1184735,
+    "irrigated_blue": 607907,
+    "rainfed_green": 313955,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Daykundi",
+    "DISTRICT": "Day Kundi",
+    "irrigated_green": 82797,
+    "total": 206790,
+    "irrigated_blue": 74039,
+    "rainfed_green": 64090,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Zabul",
+    "DISTRICT": "Daychopan",
+    "irrigated_green": 262939,
+    "total": 858404,
+    "irrigated_blue": 394855,
+    "rainfed_green": 215769,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Wardak",
+    "DISTRICT": "Daymirdad",
+    "irrigated_green": 406654,
+    "total": 503644,
+    "irrigated_blue": 114978,
+    "rainfed_green": 142926,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nangarhar",
+    "DISTRICT": "Dih Bala",
+    "irrigated_green": 1146633,
+    "total": 1788369,
+    "irrigated_blue": 667228,
+    "rainfed_green": 392199,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kabul",
+    "DISTRICT": "Dih Sabz",
+    "irrigated_green": 765459,
+    "total": 3221681,
+    "irrigated_blue": 1190490,
+    "rainfed_green": 2040672,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Balkh",
+    "DISTRICT": "Dihdadi",
+    "irrigated_green": 4814812,
+    "total": 11759927,
+    "irrigated_blue": 9534590,
+    "rainfed_green": 316979,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Uruzgan",
+    "DISTRICT": "Dihrawud",
+    "irrigated_green": 212243,
+    "total": 675521,
+    "irrigated_blue": 583347,
+    "rainfed_green": 139330,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Ghazni",
+    "DISTRICT": "Dihyak",
+    "irrigated_green": 518835,
+    "total": 1118703,
+    "irrigated_blue": 511223,
+    "rainfed_green": 280863,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktika",
+    "DISTRICT": "Dila",
+    "irrigated_green": 278012,
+    "total": 810129,
+    "irrigated_blue": 485480,
+    "rainfed_green": 84447,
+    "rainfed_blue": 11911
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hilmand",
+    "DISTRICT": "Disho",
+    "irrigated_green": 52949,
+    "total": 1640405,
+    "irrigated_blue": 3083331,
+    "rainfed_green": 323,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Baghlan",
+    "DISTRICT": "Doshi",
+    "irrigated_green": 375430,
+    "total": 1517738,
+    "irrigated_blue": 1061815,
+    "rainfed_green": 482922,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nangarhar",
+    "DISTRICT": "Dur Baba",
+    "irrigated_green": 91414,
+    "total": 521524,
+    "irrigated_blue": 81655,
+    "rainfed_green": 391722,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Farah",
+    "DISTRICT": "Farah City",
+    "irrigated_green": 133653,
+    "total": 2179399,
+    "irrigated_blue": 2202257,
+    "rainfed_green": 195,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Takhar",
+    "DISTRICT": "Farkhar",
+    "irrigated_green": 392948,
+    "total": 1689696,
+    "irrigated_blue": 650116,
+    "rainfed_green": 1052849,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hirat",
+    "DISTRICT": "Farsi",
+    "irrigated_green": 528426,
+    "total": 1135543,
+    "irrigated_blue": 478461,
+    "rainfed_green": 303449,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Jawzjan",
+    "DISTRICT": "Fayz abad",
+    "irrigated_green": 5549451,
+    "total": 8595019,
+    "irrigated_blue": 6849949,
+    "rainfed_green": 588029,
+    "rainfed_blue": 3160
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Badakhshan",
+    "DISTRICT": "Fayzabad",
+    "irrigated_green": 511485,
+    "total": 2003189,
+    "irrigated_blue": 75605,
+    "rainfed_green": 1656386,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktya",
+    "DISTRICT": "Gardez",
+    "irrigated_green": 599612,
+    "total": 1129416,
+    "irrigated_blue": 397783,
+    "rainfed_green": 187700,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hilmand",
+    "DISTRICT": "Garmser",
+    "irrigated_green": 239343,
+    "total": 2537426,
+    "irrigated_blue": 4515980,
+    "rainfed_green": 838,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktika",
+    "DISTRICT": "Gayan",
+    "irrigated_green": 70413,
+    "total": 337769,
+    "irrigated_blue": 55662,
+    "rainfed_green": 211694,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Ghazni",
+    "DISTRICT": "Gelan",
+    "irrigated_green": 938267,
+    "total": 2533586,
+    "irrigated_blue": 1432783,
+    "rainfed_green": 197275,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Ghazni",
+    "DISTRICT": "Ghazni",
+    "irrigated_green": 920241,
+    "total": 1785756,
+    "irrigated_blue": 766708,
+    "rainfed_green": 232356,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kandahar",
+    "DISTRICT": "Ghorak",
+    "irrigated_green": 90916,
+    "total": 358874,
+    "irrigated_blue": 283305,
+    "rainfed_green": 142220,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Parwan",
+    "DISTRICT": "Ghorband",
+    "irrigated_green": 911166,
+    "total": 792059,
+    "irrigated_blue": 88160,
+    "rainfed_green": 148405,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Badghis",
+    "DISTRICT": "Ghormach",
+    "irrigated_green": 1230968,
+    "total": 2112743,
+    "irrigated_blue": 1137941,
+    "rainfed_green": 795446,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hirat",
+    "DISTRICT": "Ghoryan",
+    "irrigated_green": 1848339,
+    "total": 2423470,
+    "irrigated_blue": 5850554,
+    "rainfed_green": 87641,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Ghazni",
+    "DISTRICT": "Giro",
+    "irrigated_green": 803194,
+    "total": 1535179,
+    "irrigated_blue": 641781,
+    "rainfed_green": 140627,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Daykundi",
+    "DISTRICT": "Gizab",
+    "irrigated_green": 96565,
+    "total": 308957,
+    "irrigated_blue": 123873,
+    "rainfed_green": 108934,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktika",
+    "DISTRICT": "Gomal",
+    "irrigated_green": 45096,
+    "total": 118254,
+    "irrigated_blue": 67009,
+    "rainfed_green": 68605,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nangarhar",
+    "DISTRICT": "Goshta",
+    "irrigated_green": 663784,
+    "total": 1396573,
+    "irrigated_blue": 687086,
+    "rainfed_green": 422822,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kabul",
+    "DISTRICT": "Gul dara",
+    "irrigated_green": 1072025,
+    "total": 2199124,
+    "irrigated_blue": 1069168,
+    "rainfed_green": 90458,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Farah",
+    "DISTRICT": "Gulistan",
+    "irrigated_green": 17043,
+    "total": 83594,
+    "irrigated_blue": 92645,
+    "rainfed_green": 23386,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hirat",
+    "DISTRICT": "Gulran",
+    "irrigated_green": 90252,
+    "total": 424197,
+    "irrigated_blue": 337027,
+    "rainfed_green": 328986,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Khost",
+    "DISTRICT": "Gurbuz",
+    "irrigated_green": 1987600,
+    "total": 2466829,
+    "irrigated_blue": 1368786,
+    "rainfed_green": 287797,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hirat",
+    "DISTRICT": "Guzara",
+    "irrigated_green": 1203772,
+    "total": 3412066,
+    "irrigated_blue": 2779229,
+    "rainfed_green": 277828,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kunduz",
+    "DISTRICT": "Hazrati Imam",
+    "irrigated_green": 5319250,
+    "total": 12674966,
+    "irrigated_blue": 11473107,
+    "rainfed_green": 463263,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Samangan",
+    "DISTRICT": "Hazrati Sultan",
+    "irrigated_green": 1071603,
+    "total": 3452655,
+    "irrigated_blue": 2237549,
+    "rainfed_green": 1673345,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hirat",
+    "DISTRICT": "Hirat City",
+    "irrigated_green": 1920225,
+    "total": 5602534,
+    "irrigated_blue": 3682231,
+    "rainfed_green": 465,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Wardak",
+    "DISTRICT": "Hisa-i-Awali Bihsud",
+    "irrigated_green": 734378,
+    "total": 302287,
+    "irrigated_blue": 132422,
+    "rainfed_green": 22840,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Panjshir",
+    "DISTRICT": "Hisa-I-Awali Panjsher",
+    "irrigated_green": 313335,
+    "total": 279699,
+    "irrigated_blue": 32309,
+    "rainfed_green": 79242,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Panjshir",
+    "DISTRICT": "Hisa-I-Duwum Panjsher",
+    "irrigated_green": 511368,
+    "total": 668233,
+    "irrigated_blue": 30342,
+    "rainfed_green": 146401,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nangarhar",
+    "DISTRICT": "Hisarak",
+    "irrigated_green": 619385,
+    "total": 1409673,
+    "irrigated_blue": 267185,
+    "rainfed_green": 656854,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hirat",
+    "DISTRICT": "Injil",
+    "irrigated_green": 2317314,
+    "total": 6025252,
+    "irrigated_blue": 5227911,
+    "rainfed_green": 247593,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Takhar",
+    "DISTRICT": "Ishkamish",
+    "irrigated_green": 1519888,
+    "total": 5122316,
+    "irrigated_blue": 3669845,
+    "rainfed_green": 2640573,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Badakhshan",
+    "DISTRICT": "Ishkashim",
+    "irrigated_green": 290864,
+    "total": 474443,
+    "irrigated_blue": 342161,
+    "rainfed_green": 63187,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kabul",
+    "DISTRICT": "Istalif",
+    "irrigated_green": 250970,
+    "total": 398739,
+    "irrigated_blue": 23835,
+    "rainfed_green": 123934,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Parwan",
+    "DISTRICT": "Jabalussaraj",
+    "irrigated_green": 1223288,
+    "total": 1586319,
+    "irrigated_blue": 132316,
+    "rainfed_green": 371666,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktya",
+    "DISTRICT": "Jadran",
+    "irrigated_green": 106470,
+    "total": 439099,
+    "irrigated_blue": 53560,
+    "rainfed_green": 301988,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Ghazni",
+    "DISTRICT": "Jaghatu",
+    "irrigated_green": 401406,
+    "total": 805551,
+    "irrigated_blue": 236634,
+    "rainfed_green": 216427,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Ghazni",
+    "DISTRICT": "Jaghuri",
+    "irrigated_green": 334404,
+    "total": 688163,
+    "irrigated_blue": 247435,
+    "rainfed_green": 123993,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktya",
+    "DISTRICT": "Jaji",
+    "irrigated_green": 496696,
+    "total": 1831247,
+    "irrigated_blue": 110169,
+    "rainfed_green": 1407733,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Khost",
+    "DISTRICT": "Jaji Maydan",
+    "irrigated_green": 159313,
+    "total": 471286,
+    "irrigated_blue": 58118,
+    "rainfed_green": 297467,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nangarhar",
+    "DISTRICT": "Jalal abad",
+    "irrigated_green": 3890816,
+    "total": 6196087,
+    "irrigated_blue": 2303795,
+    "rainfed_green": 2951,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Wardak",
+    "DISTRICT": "Jalrez",
+    "irrigated_green": 645226,
+    "total": 273122,
+    "irrigated_blue": 147573,
+    "rainfed_green": 65161,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktya",
+    "DISTRICT": "Jani Khel",
+    "irrigated_green": 109095,
+    "total": 516009,
+    "irrigated_blue": 26585,
+    "rainfed_green": 380329,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Badghis",
+    "DISTRICT": "Jawand",
+    "irrigated_green": 100646,
+    "total": 644607,
+    "irrigated_blue": 75797,
+    "rainfed_green": 568863,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Badakhshan",
+    "DISTRICT": "Jurm",
+    "irrigated_green": 458578,
+    "total": 800482,
+    "irrigated_blue": 100140,
+    "rainfed_green": 319014,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kabul",
+    "DISTRICT": "Kabul City",
+    "irrigated_green": 951168,
+    "total": 2528015,
+    "irrigated_blue": 1415452,
+    "rainfed_green": 257099,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Baghlan",
+    "DISTRICT": "Kahmard",
+    "irrigated_green": 251267,
+    "total": 531664,
+    "irrigated_blue": 203823,
+    "rainfed_green": 178325,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hilmand",
+    "DISTRICT": "Kajaki",
+    "irrigated_green": 602590,
+    "total": 2144999,
+    "irrigated_blue": 1549119,
+    "rainfed_green": 143627,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Takhar",
+    "DISTRICT": "Kalafgan",
+    "irrigated_green": 272004,
+    "total": 2933582,
+    "irrigated_blue": 451361,
+    "rainfed_green": 2531713,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kabul",
+    "DISTRICT": "Kalakan",
+    "irrigated_green": 3182231,
+    "total": 7946473,
+    "irrigated_blue": 4762143,
+    "rainfed_green": 3966,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Balkh",
+    "DISTRICT": "Kaldar",
+    "irrigated_green": 1291237,
+    "total": 4272130,
+    "irrigated_blue": 3383249,
+    "rainfed_green": 320129,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nangarhar",
+    "DISTRICT": "Kama",
+    "irrigated_green": 3328349,
+    "total": 6595717,
+    "irrigated_blue": 3112428,
+    "rainfed_green": 341380,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nuristan",
+    "DISTRICT": "Kamdesh",
+    "irrigated_green": 462522,
+    "total": 478412,
+    "irrigated_blue": 49487,
+    "rainfed_green": 441840,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kandahar",
+    "DISTRICT": "Kandahar City",
+    "irrigated_green": 849842,
+    "total": 5872671,
+    "irrigated_blue": 4825604,
+    "rainfed_green": 206902,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nimroz",
+    "DISTRICT": "Kang",
+    "irrigated_green": 112682,
+    "total": 4534776,
+    "irrigated_blue": 4415082,
+    "rainfed_green": 97105,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hirat",
+    "DISTRICT": "Karukh",
+    "irrigated_green": 609473,
+    "total": 1985476,
+    "irrigated_blue": 1125069,
+    "rainfed_green": 470059,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kabul",
+    "DISTRICT": "Khaki Jabar",
+    "irrigated_green": 82552,
+    "total": 464439,
+    "irrigated_blue": 106812,
+    "rainfed_green": 338196,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Farah",
+    "DISTRICT": "Khaki Safed",
+    "irrigated_green": 128465,
+    "total": 916138,
+    "irrigated_blue": 891172,
+    "rainfed_green": 43383,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kandahar",
+    "DISTRICT": "Khakrez",
+    "irrigated_green": 204821,
+    "total": 865144,
+    "irrigated_blue": 573212,
+    "rainfed_green": 157669,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Jawzjan",
+    "DISTRICT": "Khamyab",
+    "irrigated_green": 742774,
+    "total": 4252076,
+    "irrigated_blue": 6120474,
+    "rainfed_green": 233463,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kunduz",
+    "DISTRICT": "Khan Abad",
+    "irrigated_green": 2984205,
+    "total": 6049080,
+    "irrigated_blue": 6462276,
+    "rainfed_green": 571596,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Faryab",
+    "DISTRICT": "Khan Char Bagh",
+    "irrigated_green": 4872981,
+    "total": 5765908,
+    "irrigated_blue": 11748611,
+    "rainfed_green": 371945,
+    "rainfed_blue": 136302
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kunar",
+    "DISTRICT": "Khas Kunar",
+    "irrigated_green": 1272996,
+    "total": 4015633,
+    "irrigated_blue": 1991209,
+    "rainfed_green": 884171,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Uruzgan",
+    "DISTRICT": "Khas Uruzgan",
+    "irrigated_green": 189713,
+    "total": 496161,
+    "irrigated_blue": 215317,
+    "rainfed_green": 96825,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nimroz",
+    "DISTRICT": "Khash Rod",
+    "irrigated_green": 195672,
+    "total": 2500191,
+    "irrigated_blue": 2309681,
+    "rainfed_green": 7094,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Baghlan",
+    "DISTRICT": "Khinjan",
+    "irrigated_green": 548038,
+    "total": 1489450,
+    "irrigated_blue": 1038162,
+    "rainfed_green": 358940,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nangarhar",
+    "DISTRICT": "Khogyani",
+    "irrigated_green": 2868333,
+    "total": 4089064,
+    "irrigated_blue": 1702287,
+    "rainfed_green": 304988,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Khost",
+    "DISTRICT": "Khost (Matun)",
+    "irrigated_green": 1952224,
+    "total": 3675061,
+    "irrigated_blue": 1515738,
+    "rainfed_green": 290008,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Baghlan",
+    "DISTRICT": "Khost Wa Firing",
+    "irrigated_green": 574762,
+    "total": 1467567,
+    "irrigated_blue": 614757,
+    "rainfed_green": 378699,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Balkh",
+    "DISTRICT": "Khulm",
+    "irrigated_green": 2361688,
+    "total": 2889082,
+    "irrigated_blue": 3612075,
+    "rainfed_green": 474357,
+    "rainfed_blue": 630
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Samangan",
+    "DISTRICT": "Khuram Wa Sarbagh",
+    "irrigated_green": 189634,
+    "total": 1543020,
+    "irrigated_blue": 274277,
+    "rainfed_green": 1349896,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Logar",
+    "DISTRICT": "Khushi",
+    "irrigated_green": 239915,
+    "total": 498814,
+    "irrigated_blue": 105875,
+    "rainfed_green": 210711,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Badakhshan",
+    "DISTRICT": "Khwahan",
+    "irrigated_green": 109552,
+    "total": 599502,
+    "irrigated_blue": 15216,
+    "rainfed_green": 572364,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Jawzjan",
+    "DISTRICT": "Khwaja Du Koh",
+    "irrigated_green": 3372540,
+    "total": 3343244,
+    "irrigated_blue": 4820974,
+    "rainfed_green": 505040,
+    "rainfed_blue": 29776
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Takhar",
+    "DISTRICT": "Khwaja Ghar",
+    "irrigated_green": 1793022,
+    "total": 5761330,
+    "irrigated_blue": 4129570,
+    "rainfed_green": 3169284,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Faryab",
+    "DISTRICT": "Khwaja Sabz Posh",
+    "irrigated_green": 1746563,
+    "total": 4344499,
+    "irrigated_blue": 1258853,
+    "rainfed_green": 1696650,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Daykundi",
+    "DISTRICT": "Kijran",
+    "irrigated_green": 128295,
+    "total": 450132,
+    "irrigated_blue": 232000,
+    "rainfed_green": 121655,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Badakhshan",
+    "DISTRICT": "Kishim",
+    "irrigated_green": 746399,
+    "total": 1815919,
+    "irrigated_blue": 99268,
+    "rainfed_green": 1246153,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Balkh",
+    "DISTRICT": "Kishindih",
+    "irrigated_green": 306281,
+    "total": 722693,
+    "irrigated_blue": 257928,
+    "rainfed_green": 481714,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kapisa",
+    "DISTRICT": "Kohband",
+    "irrigated_green": 1157471,
+    "total": 2026169,
+    "irrigated_blue": 323263,
+    "rainfed_green": 545435,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Parwan",
+    "DISTRICT": "Kohi Safi",
+    "irrigated_green": 151591,
+    "total": 961299,
+    "irrigated_blue": 53457,
+    "rainfed_green": 839220,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Faryab",
+    "DISTRICT": "Kohistan",
+    "irrigated_green": 143664,
+    "total": 502237,
+    "irrigated_blue": 98407,
+    "rainfed_green": 323198,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kapisa",
+    "DISTRICT": "Kohistan",
+    "irrigated_green": 7336272,
+    "total": 9943701,
+    "irrigated_blue": 2604109,
+    "rainfed_green": 5916,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Sari Pul",
+    "DISTRICT": "Kohistanat",
+    "irrigated_green": 329501,
+    "total": 675214,
+    "irrigated_blue": 143241,
+    "rainfed_green": 308794,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hirat",
+    "DISTRICT": "Kuhsan",
+    "irrigated_green": 491452,
+    "total": 1028235,
+    "irrigated_blue": 2013630,
+    "rainfed_green": 202568,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kunduz",
+    "DISTRICT": "Kunduz",
+    "irrigated_green": 4193761,
+    "total": 14437433,
+    "irrigated_blue": 13726218,
+    "rainfed_green": 499708,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Badakhshan",
+    "DISTRICT": "Kuran Wa Munjan",
+    "irrigated_green": 218476,
+    "total": 487906,
+    "irrigated_blue": 31819,
+    "rainfed_green": 356418,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hirat",
+    "DISTRICT": "Kushk",
+    "irrigated_green": 181287,
+    "total": 996513,
+    "irrigated_blue": 402346,
+    "rainfed_green": 659724,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hirat",
+    "DISTRICT": "Kushki Kuhna",
+    "irrigated_green": 113406,
+    "total": 727146,
+    "irrigated_blue": 170928,
+    "rainfed_green": 583241,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nangarhar",
+    "DISTRICT": "Kuz Kunar",
+    "irrigated_green": 854598,
+    "total": 1698677,
+    "irrigated_blue": 774777,
+    "rainfed_green": 382497,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nangarhar",
+    "DISTRICT": "Lal Pur",
+    "irrigated_green": 719219,
+    "total": 1527935,
+    "irrigated_blue": 811845,
+    "rainfed_green": 475473,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Ghor",
+    "DISTRICT": "Lal Wa Sarjangal",
+    "irrigated_green": 118063,
+    "total": 111120,
+    "irrigated_blue": 28476,
+    "rainfed_green": 14564,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Farah",
+    "DISTRICT": "Lash Wa Juwayn",
+    "irrigated_green": 72810,
+    "total": 1464875,
+    "irrigated_blue": 1585038,
+    "rainfed_green": 1704,
+    "rainfed_blue": 97
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hilmand",
+    "DISTRICT": "Lashkargah",
+    "irrigated_green": 608606,
+    "total": 6834314,
+    "irrigated_blue": 6446824,
+    "rainfed_green": 38620,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktya",
+    "DISTRICT": "Lija Mangal",
+    "irrigated_green": 155434,
+    "total": 519695,
+    "irrigated_blue": 41464,
+    "rainfed_green": 322796,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kapisa",
+    "DISTRICT": "Mahmud Raqi",
+    "irrigated_green": 2969316,
+    "total": 4675534,
+    "irrigated_blue": 1162542,
+    "rainfed_green": 694800,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Ghazni",
+    "DISTRICT": "Malistan",
+    "irrigated_green": 170217,
+    "total": 294024,
+    "irrigated_blue": 68096,
+    "rainfed_green": 80796,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Khost",
+    "DISTRICT": "Mando Zayi",
+    "irrigated_green": 3599273,
+    "total": 6194411,
+    "irrigated_blue": 2591286,
+    "rainfed_green": 5807,
+    "rainfed_blue": 1167
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nuristan",
+    "DISTRICT": "Mandol",
+    "irrigated_green": 201852,
+    "total": 205735,
+    "irrigated_blue": 60420,
+    "rainfed_green": 74600,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Jawzjan",
+    "DISTRICT": "Mardyan",
+    "irrigated_green": 4853111,
+    "total": 12457967,
+    "irrigated_blue": 7248444,
+    "rainfed_green": 460958,
+    "rainfed_blue": 12748
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Wardak",
+    "DISTRICT": "Markazi Bihsud",
+    "irrigated_green": 535377,
+    "total": 596684,
+    "irrigated_blue": 142806,
+    "rainfed_green": 79817,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Balkh",
+    "DISTRICT": "Marmul",
+    "irrigated_green": 1166645,
+    "total": 1238842,
+    "irrigated_blue": 2552474,
+    "rainfed_green": 339971,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kandahar",
+    "DISTRICT": "Maruf",
+    "irrigated_green": 117824,
+    "total": 301580,
+    "irrigated_blue": 230503,
+    "rainfed_green": 84680,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kunar",
+    "DISTRICT": "Marwara",
+    "irrigated_green": 886863,
+    "total": 2678099,
+    "irrigated_blue": 903386,
+    "rainfed_green": 887850,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktika",
+    "DISTRICT": "Mata Khan",
+    "irrigated_green": 304236,
+    "total": 749460,
+    "irrigated_blue": 272788,
+    "rainfed_green": 171440,
+    "rainfed_blue": 6971
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Wardak",
+    "DISTRICT": "Maydan Shahr",
+    "irrigated_green": 919849,
+    "total": 1206298,
+    "irrigated_blue": 724781,
+    "rainfed_green": 151727,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Faryab",
+    "DISTRICT": "Maymana",
+    "irrigated_green": 586422,
+    "total": 1976409,
+    "irrigated_blue": 396111,
+    "rainfed_green": 1239509,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kandahar",
+    "DISTRICT": "Maywand",
+    "irrigated_green": 161388,
+    "total": 782952,
+    "irrigated_blue": 810002,
+    "rainfed_green": 91844,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Balkh",
+    "DISTRICT": "Mazar-i-Sharif",
+    "irrigated_green": 2539370,
+    "total": 7983289,
+    "irrigated_blue": 5443733,
+    "rainfed_green": 427,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Laghman",
+    "DISTRICT": "Mihtarlam",
+    "irrigated_green": 1355733,
+    "total": 5043932,
+    "irrigated_blue": 5026352,
+    "rainfed_green": 703224,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Jawzjan",
+    "DISTRICT": "Mingajik",
+    "irrigated_green": 2915021,
+    "total": 8584508,
+    "irrigated_blue": 6759323,
+    "rainfed_green": 406049,
+    "rainfed_blue": 26781
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kabul",
+    "DISTRICT": "Mirbacha Kot",
+    "irrigated_green": 4344319,
+    "total": 10731965,
+    "irrigated_blue": 6386012,
+    "rainfed_green": 3270,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Zabul",
+    "DISTRICT": "Mizan",
+    "irrigated_green": 292363,
+    "total": 1169833,
+    "irrigated_blue": 801138,
+    "rainfed_green": 183775,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Logar",
+    "DISTRICT": "Muhammad Agha",
+    "irrigated_green": 636395,
+    "total": 898347,
+    "irrigated_blue": 301471,
+    "rainfed_green": 234485,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nangarhar",
+    "DISTRICT": "Muhmand Dara",
+    "irrigated_green": 818978,
+    "total": 2142011,
+    "irrigated_blue": 988496,
+    "rainfed_green": 335817,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Badghis",
+    "DISTRICT": "Muqur",
+    "irrigated_green": 634721,
+    "total": 1569521,
+    "irrigated_blue": 594531,
+    "rainfed_green": 750020,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Ghazni",
+    "DISTRICT": "Muqur",
+    "irrigated_green": 872240,
+    "total": 2280080,
+    "irrigated_blue": 1243753,
+    "rainfed_green": 197340,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Badghis",
+    "DISTRICT": "Murghab",
+    "irrigated_green": 616594,
+    "total": 1201100,
+    "irrigated_blue": 580604,
+    "rainfed_green": 713153,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Khost",
+    "DISTRICT": "Musa Khel",
+    "irrigated_green": 133797,
+    "total": 486417,
+    "irrigated_blue": 45757,
+    "rainfed_green": 306863,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hilmand",
+    "DISTRICT": "Musa Qala",
+    "irrigated_green": 329570,
+    "total": 1229168,
+    "irrigated_blue": 794380,
+    "rainfed_green": 119714,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kabul",
+    "DISTRICT": "Musayi",
+    "irrigated_green": 1287513,
+    "total": 3048451,
+    "irrigated_blue": 1760429,
+    "rainfed_green": 1175,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hilmand",
+    "DISTRICT": "Nad Ali",
+    "irrigated_green": 453277,
+    "total": 6299645,
+    "irrigated_blue": 6346210,
+    "rainfed_green": 5332,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Khost",
+    "DISTRICT": "Nadir Shah Kot",
+    "irrigated_green": 583078,
+    "total": 2322924,
+    "irrigated_blue": 296382,
+    "rainfed_green": 1493679,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hilmand",
+    "DISTRICT": "Nahri Sarraj",
+    "irrigated_green": 633298,
+    "total": 3604178,
+    "irrigated_blue": 3692417,
+    "rainfed_green": 64152,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Balkh",
+    "DISTRICT": "Nahri Shahi",
+    "irrigated_green": 2418889,
+    "total": 7066792,
+    "irrigated_blue": 5337457,
+    "rainfed_green": 308020,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Baghlan",
+    "DISTRICT": "Nahrin",
+    "irrigated_green": 969335,
+    "total": 3920744,
+    "irrigated_blue": 3325331,
+    "rainfed_green": 680135,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kunar",
+    "DISTRICT": "Nali",
+    "irrigated_green": 294870,
+    "total": 712610,
+    "irrigated_blue": 124534,
+    "rainfed_green": 526208,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kunar",
+    "DISTRICT": "Narang Wa Badil",
+    "irrigated_green": 1328694,
+    "total": 7847624,
+    "irrigated_blue": 1533233,
+    "rainfed_green": 5110365,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hilmand",
+    "DISTRICT": "Naw Zad",
+    "irrigated_green": 382247,
+    "total": 1654958,
+    "irrigated_blue": 1276518,
+    "rainfed_green": 90283,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Ghazni",
+    "DISTRICT": "Nawa",
+    "irrigated_green": 306501,
+    "total": 925446,
+    "irrigated_blue": 435991,
+    "rainfed_green": 183709,
+    "rainfed_blue": 481532
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hilmand",
+    "DISTRICT": "Nawa-i-Barak Zayi",
+    "irrigated_green": 650647,
+    "total": 9577527,
+    "irrigated_blue": 9737353,
+    "rainfed_green": 4991,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Ghazni",
+    "DISTRICT": "Nawur",
+    "irrigated_green": 143701,
+    "total": 185477,
+    "irrigated_blue": 35396,
+    "rainfed_green": 61363,
+    "rainfed_blue": 5033
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nangarhar",
+    "DISTRICT": "Nazyan",
+    "irrigated_green": 861164,
+    "total": 2168647,
+    "irrigated_blue": 839873,
+    "rainfed_green": 467610,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Uruzgan",
+    "DISTRICT": "Nesh",
+    "irrigated_green": 272220,
+    "total": 1239146,
+    "irrigated_blue": 880588,
+    "rainfed_green": 175272,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kapisa",
+    "DISTRICT": "Nijrab",
+    "irrigated_green": 427513,
+    "total": 1091939,
+    "irrigated_blue": 55556,
+    "rainfed_green": 706144,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktika",
+    "DISTRICT": "Nika",
+    "irrigated_green": 99711,
+    "total": 319652,
+    "irrigated_blue": 37454,
+    "rainfed_green": 182487,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Wardak",
+    "DISTRICT": "Nirkh",
+    "irrigated_green": 771525,
+    "total": 1499983,
+    "irrigated_blue": 530592,
+    "rainfed_green": 254639,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kunar",
+    "DISTRICT": "Nurgal",
+    "irrigated_green": 678260,
+    "total": 2637241,
+    "irrigated_blue": 1288461,
+    "rainfed_green": 670519,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nuristan",
+    "DISTRICT": "Nuristan",
+    "irrigated_green": 148336,
+    "total": 583271,
+    "irrigated_blue": 174570,
+    "rainfed_green": 411055,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hirat",
+    "DISTRICT": "Obe",
+    "irrigated_green": 323513,
+    "total": 1025088,
+    "irrigated_blue": 377358,
+    "rainfed_green": 409690,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktika",
+    "DISTRICT": "Omna",
+    "irrigated_green": 126103,
+    "total": 325324,
+    "irrigated_blue": 107269,
+    "rainfed_green": 92002,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nangarhar",
+    "DISTRICT": "Pachir Wa Agam",
+    "irrigated_green": 1546515,
+    "total": 2290754,
+    "irrigated_blue": 850991,
+    "rainfed_green": 434127,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kabul",
+    "DISTRICT": "Paghman",
+    "irrigated_green": 1696348,
+    "total": 2789361,
+    "irrigated_blue": 1327008,
+    "rainfed_green": 273455,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Bamyan",
+    "DISTRICT": "Panjab",
+    "irrigated_green": 124589,
+    "total": 171716,
+    "irrigated_blue": 29434,
+    "rainfed_green": 22871,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Panjshir",
+    "DISTRICT": "Panjsher",
+    "irrigated_green": 785224,
+    "total": 1183418,
+    "irrigated_blue": 57881,
+    "rainfed_green": 611270,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kandahar",
+    "DISTRICT": "Panjwayi",
+    "irrigated_green": 335652,
+    "total": 3316792,
+    "irrigated_blue": 3138193,
+    "rainfed_green": 97740,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Ghor",
+    "DISTRICT": "Pasaband",
+    "irrigated_green": 97126,
+    "total": 318157,
+    "irrigated_blue": 127066,
+    "rainfed_green": 119343,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Faryab",
+    "DISTRICT": "Pashtun Kot",
+    "irrigated_green": 351915,
+    "total": 1726955,
+    "irrigated_blue": 219259,
+    "rainfed_green": 1251531,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hirat",
+    "DISTRICT": "Pashtun Zarghun",
+    "irrigated_green": 872162,
+    "total": 2659936,
+    "irrigated_blue": 1354899,
+    "rainfed_green": 578506,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Logar",
+    "DISTRICT": "Puli Alam",
+    "irrigated_green": 930956,
+    "total": 1343219,
+    "irrigated_blue": 419281,
+    "rainfed_green": 211848,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Baghlan",
+    "DISTRICT": "Puli Khumri",
+    "irrigated_green": 2771971,
+    "total": 7904846,
+    "irrigated_blue": 6859606,
+    "rainfed_green": 1015836,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Farah",
+    "DISTRICT": "Purchaman",
+    "irrigated_green": 29027,
+    "total": 119220,
+    "irrigated_blue": 54713,
+    "rainfed_green": 58835,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Farah",
+    "DISTRICT": "Pusht Rod",
+    "irrigated_green": 341428,
+    "total": 4724651,
+    "irrigated_blue": 4569389,
+    "rainfed_green": 8741,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Badghis",
+    "DISTRICT": "Qadis",
+    "irrigated_green": 380358,
+    "total": 1344970,
+    "irrigated_blue": 351679,
+    "rainfed_green": 808954,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Farah",
+    "DISTRICT": "Qala-I-Kah",
+    "irrigated_green": 60124,
+    "total": 824966,
+    "irrigated_blue": 922932,
+    "rainfed_green": 2869,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Badghis",
+    "DISTRICT": "Qala-I-Naw",
+    "irrigated_green": 297550,
+    "total": 1139515,
+    "irrigated_blue": 291903,
+    "rainfed_green": 774736,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kunduz",
+    "DISTRICT": "Qala-I-Zal",
+    "irrigated_green": 1509800,
+    "total": 3494666,
+    "irrigated_blue": 3981268,
+    "rainfed_green": 296203,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Khost",
+    "DISTRICT": "Qalandar",
+    "irrigated_green": 130136,
+    "total": 475442,
+    "irrigated_blue": 64088,
+    "rainfed_green": 281218,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Zabul",
+    "DISTRICT": "Qalat",
+    "irrigated_green": 359905,
+    "total": 1505144,
+    "irrigated_blue": 955744,
+    "rainfed_green": 200202,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Ghazni",
+    "DISTRICT": "Qarabagh",
+    "irrigated_green": 520392,
+    "total": 1140602,
+    "irrigated_blue": 491557,
+    "rainfed_green": 196618,
+    "rainfed_blue": 55076
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kabul",
+    "DISTRICT": "Qarabagh",
+    "irrigated_green": 4883131,
+    "total": 6295659,
+    "irrigated_blue": 7415501,
+    "rainfed_green": 232870,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Faryab",
+    "DISTRICT": "Qaram Qol",
+    "irrigated_green": 2209307,
+    "total": 2678199,
+    "irrigated_blue": 3019573,
+    "rainfed_green": 915625,
+    "rainfed_blue": 106450
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Laghman",
+    "DISTRICT": "Qarghayi",
+    "irrigated_green": 713969,
+    "total": 3277588,
+    "irrigated_blue": 2668596,
+    "rainfed_green": 675615,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Jawzjan",
+    "DISTRICT": "Qarqin",
+    "irrigated_green": 938158,
+    "total": 3199856,
+    "irrigated_blue": 2253475,
+    "rainfed_green": 291609,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Faryab",
+    "DISTRICT": "Qaysar",
+    "irrigated_green": 2615465,
+    "total": 3831950,
+    "irrigated_blue": 1866081,
+    "rainfed_green": 895436,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Badakhshan",
+    "DISTRICT": "Ragh",
+    "irrigated_green": 94458,
+    "total": 604636,
+    "irrigated_blue": 12343,
+    "rainfed_green": 539173,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hilmand",
+    "DISTRICT": "Reg",
+    "irrigated_green": 146358,
+    "total": 4258629,
+    "irrigated_blue": 4253322,
+    "rainfed_green": 1494,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kandahar",
+    "DISTRICT": "Reg",
+    "irrigated_green": 147422,
+    "total": 160373,
+    "irrigated_blue": 2353245,
+    "rainfed_green": 34099,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nangarhar",
+    "DISTRICT": "Rodat",
+    "irrigated_green": 2574047,
+    "total": 6060352,
+    "irrigated_blue": 2358686,
+    "rainfed_green": 1478945,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Samangan",
+    "DISTRICT": "Royi Du Ab",
+    "irrigated_green": 164097,
+    "total": 524971,
+    "irrigated_blue": 71457,
+    "rainfed_green": 384621,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Takhar",
+    "DISTRICT": "Rustaq",
+    "irrigated_green": 367997,
+    "total": 4065634,
+    "irrigated_blue": 742947,
+    "rainfed_green": 3486011,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Khost",
+    "DISTRICT": "Sabari",
+    "irrigated_green": 602976,
+    "total": 1315894,
+    "irrigated_blue": 344402,
+    "rainfed_green": 368516,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Ghor",
+    "DISTRICT": "Saghar",
+    "irrigated_green": 35176,
+    "total": 222312,
+    "irrigated_blue": 63726,
+    "rainfed_green": 153612,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Parwan",
+    "DISTRICT": "Salang",
+    "irrigated_green": 778917,
+    "total": 582377,
+    "irrigated_blue": 43847,
+    "rainfed_green": 128864,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Sari Pul",
+    "DISTRICT": "Sangcharak",
+    "irrigated_green": 697553,
+    "total": 1721019,
+    "irrigated_blue": 489143,
+    "rainfed_green": 764084,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hilmand",
+    "DISTRICT": "Sangin",
+    "irrigated_green": 432958,
+    "total": 1866143,
+    "irrigated_blue": 1730810,
+    "rainfed_green": 98136,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktika",
+    "DISTRICT": "Sar Hawza",
+    "irrigated_green": 62280,
+    "total": 268861,
+    "irrigated_blue": 40985,
+    "rainfed_green": 177532,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Sari Pul",
+    "DISTRICT": "Sar-i-Pul City",
+    "irrigated_green": 1476851,
+    "total": 1995896,
+    "irrigated_blue": 1216841,
+    "rainfed_green": 876571,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktika",
+    "DISTRICT": "Sarobi",
+    "irrigated_green": 359419,
+    "total": 1214779,
+    "irrigated_blue": 343184,
+    "rainfed_green": 710189,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Wardak",
+    "DISTRICT": "Sayid Abad",
+    "irrigated_green": 572431,
+    "total": 1549154,
+    "irrigated_blue": 526622,
+    "rainfed_green": 500528,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktya",
+    "DISTRICT": "Sayid Karam",
+    "irrigated_green": 592660,
+    "total": 1005376,
+    "irrigated_blue": 273653,
+    "rainfed_green": 431522,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Sari Pul",
+    "DISTRICT": "Sayyad",
+    "irrigated_green": 113371,
+    "total": 1030817,
+    "irrigated_blue": 88626,
+    "rainfed_green": 980318,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kandahar",
+    "DISTRICT": "Shah Wali Kot",
+    "irrigated_green": 115830,
+    "total": 553777,
+    "irrigated_blue": 304211,
+    "rainfed_green": 174953,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Uruzgan",
+    "DISTRICT": "Shahidi Hasas",
+    "irrigated_green": 216255,
+    "total": 679358,
+    "irrigated_blue": 549025,
+    "rainfed_green": 147703,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Zabul",
+    "DISTRICT": "Shahjoy",
+    "irrigated_green": 618527,
+    "total": 1927950,
+    "irrigated_blue": 1162042,
+    "rainfed_green": 178133,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Ghor",
+    "DISTRICT": "Shahrak",
+    "irrigated_green": 78806,
+    "total": 238073,
+    "irrigated_blue": 89091,
+    "rainfed_green": 112660,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Badakhshan",
+    "DISTRICT": "Shahri Buzurg",
+    "irrigated_green": 102363,
+    "total": 1950020,
+    "irrigated_blue": 13949,
+    "rainfed_green": 1882189,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Daykundi",
+    "DISTRICT": "Shahristan",
+    "irrigated_green": 128722,
+    "total": 261435,
+    "irrigated_blue": 95948,
+    "rainfed_green": 54231,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kabul",
+    "DISTRICT": "Shakar Dara",
+    "irrigated_green": 2462794,
+    "total": 3961832,
+    "irrigated_blue": 2717301,
+    "rainfed_green": 110775,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktya",
+    "DISTRICT": "Shamul",
+    "irrigated_green": 81423,
+    "total": 441044,
+    "irrigated_blue": 33732,
+    "rainfed_green": 325890,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Zabul",
+    "DISTRICT": "Shamul zayi",
+    "irrigated_green": 131211,
+    "total": 493926,
+    "irrigated_blue": 320325,
+    "rainfed_green": 98783,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktika",
+    "DISTRICT": "Sharan",
+    "irrigated_green": 617389,
+    "total": 1083433,
+    "irrigated_blue": 495014,
+    "rainfed_green": 147059,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Parwan",
+    "DISTRICT": "Shekh Ali",
+    "irrigated_green": 517297,
+    "total": 371624,
+    "irrigated_blue": 55242,
+    "rainfed_green": 57775,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nangarhar",
+    "DISTRICT": "Sherzad",
+    "irrigated_green": 2337504,
+    "total": 2878082,
+    "irrigated_blue": 1232281,
+    "rainfed_green": 273666,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Farah",
+    "DISTRICT": "Shib Koh",
+    "irrigated_green": 149831,
+    "total": 2350930,
+    "irrigated_blue": 2318945,
+    "rainfed_green": 209,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Bamyan",
+    "DISTRICT": "Shibar",
+    "irrigated_green": 53291,
+    "total": 85208,
+    "irrigated_blue": 9560,
+    "rainfed_green": 30507,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Jawzjan",
+    "DISTRICT": "Shibirghan",
+    "irrigated_green": 3460676,
+    "total": 4649772,
+    "irrigated_blue": 4759787,
+    "rainfed_green": 659721,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Badakhshan",
+    "DISTRICT": "Shighnan",
+    "irrigated_green": 226787,
+    "total": 247813,
+    "irrigated_blue": 152420,
+    "rainfed_green": 126918,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hirat",
+    "DISTRICT": "Shindand",
+    "irrigated_green": 444961,
+    "total": 1845509,
+    "irrigated_blue": 1694847,
+    "rainfed_green": 114453,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Zabul",
+    "DISTRICT": "Shinkay",
+    "irrigated_green": 201929,
+    "total": 791807,
+    "irrigated_blue": 463671,
+    "rainfed_green": 126208,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nangarhar",
+    "DISTRICT": "Shinwar",
+    "irrigated_green": 5077672,
+    "total": 10104251,
+    "irrigated_blue": 5025079,
+    "rainfed_green": 2400,
+    "rainfed_blue": 620
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Parwan",
+    "DISTRICT": "Shinwari",
+    "irrigated_green": 678101,
+    "total": 754289,
+    "irrigated_blue": 52259,
+    "rainfed_green": 243547,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Faryab",
+    "DISTRICT": "Shirin Tagab",
+    "irrigated_green": 1477553,
+    "total": 2434041,
+    "irrigated_blue": 1017641,
+    "rainfed_green": 1233174,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Balkh",
+    "DISTRICT": "Sholgara",
+    "irrigated_green": 929613,
+    "total": 1510577,
+    "irrigated_blue": 1062071,
+    "rainfed_green": 594112,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kandahar",
+    "DISTRICT": "Shorabak",
+    "irrigated_green": 390562,
+    "total": 2374262,
+    "irrigated_blue": 4110783,
+    "rainfed_green": 54301,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Balkh",
+    "DISTRICT": "Shortepa",
+    "irrigated_green": 1449590,
+    "total": 4149465,
+    "irrigated_blue": 3977428,
+    "rainfed_green": 162715,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktya",
+    "DISTRICT": "Shwak",
+    "irrigated_green": 154392,
+    "total": 529684,
+    "irrigated_blue": 63814,
+    "rainfed_green": 311479,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kunar",
+    "DISTRICT": "Sirkanay",
+    "irrigated_green": 1646045,
+    "total": 5034119,
+    "irrigated_blue": 1695173,
+    "rainfed_green": 1986803,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Sari Pul",
+    "DISTRICT": "Sozma Qala",
+    "irrigated_green": 1091201,
+    "total": 2172987,
+    "irrigated_blue": 1039166,
+    "rainfed_green": 1005182,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Khost",
+    "DISTRICT": "Spera",
+    "irrigated_green": 85796,
+    "total": 358538,
+    "irrigated_blue": 49139,
+    "rainfed_green": 224180,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kandahar",
+    "DISTRICT": "Spin Boldak",
+    "irrigated_green": 207816,
+    "total": 671419,
+    "irrigated_blue": 720828,
+    "rainfed_green": 104843,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nangarhar",
+    "DISTRICT": "Surkh Rod",
+    "irrigated_green": 3531724,
+    "total": 6324192,
+    "irrigated_blue": 2158043,
+    "rainfed_green": 1105348,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Parwan",
+    "DISTRICT": "Surkhi Parsa",
+    "irrigated_green": 715871,
+    "total": 562575,
+    "irrigated_blue": 82616,
+    "rainfed_green": 111240,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kabul",
+    "DISTRICT": "Surobi",
+    "irrigated_green": 98354,
+    "total": 998871,
+    "irrigated_blue": 179645,
+    "rainfed_green": 849179,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Kapisa",
+    "DISTRICT": "Tagab",
+    "irrigated_green": 234065,
+    "total": 1023557,
+    "irrigated_blue": 189883,
+    "rainfed_green": 781301,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Baghlan",
+    "DISTRICT": "Tala Wa Barfak",
+    "irrigated_green": 207878,
+    "total": 586141,
+    "irrigated_blue": 197949,
+    "rainfed_green": 225781,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Takhar",
+    "DISTRICT": "Taluqan",
+    "irrigated_green": 4018231,
+    "total": 10403334,
+    "irrigated_blue": 8509807,
+    "rainfed_green": 2480347,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Khost",
+    "DISTRICT": "Tani",
+    "irrigated_green": 201267,
+    "total": 478039,
+    "irrigated_blue": 117282,
+    "rainfed_green": 296012,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Zabul",
+    "DISTRICT": "Tarnak Wa Jaldak",
+    "irrigated_green": 265616,
+    "total": 1018067,
+    "irrigated_blue": 817938,
+    "rainfed_green": 114026,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Ghor",
+    "DISTRICT": "Taywara",
+    "irrigated_green": 142120,
+    "total": 488492,
+    "irrigated_blue": 200974,
+    "rainfed_green": 145403,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Khost",
+    "DISTRICT": "Tere Zayi",
+    "irrigated_green": 1599703,
+    "total": 4338869,
+    "irrigated_blue": 1280599,
+    "rainfed_green": 2053907,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Uruzgan",
+    "DISTRICT": "Tirin Kot",
+    "irrigated_green": 375757,
+    "total": 1141123,
+    "irrigated_blue": 975236,
+    "rainfed_green": 159566,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Ghor",
+    "DISTRICT": "Tulak",
+    "irrigated_green": 75409,
+    "total": 328680,
+    "irrigated_blue": 103371,
+    "rainfed_green": 150099,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktika",
+    "DISTRICT": "Urgun",
+    "irrigated_green": 239415,
+    "total": 678171,
+    "irrigated_blue": 204185,
+    "rainfed_green": 274703,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Badakhshan",
+    "DISTRICT": "Wakhan",
+    "irrigated_green": 106628,
+    "total": 278982,
+    "irrigated_blue": 113496,
+    "rainfed_green": 117717,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nuristan",
+    "DISTRICT": "Wama",
+    "irrigated_green": 386386,
+    "total": 160757,
+    "irrigated_blue": 46439,
+    "rainfed_green": 121409,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Bamyan",
+    "DISTRICT": "Waras",
+    "irrigated_green": 167354,
+    "total": 268582,
+    "irrigated_blue": 57270,
+    "rainfed_green": 44311,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Takhar",
+    "DISTRICT": "Warsaj",
+    "irrigated_green": 395935,
+    "total": 473295,
+    "irrigated_blue": 77380,
+    "rainfed_green": 176621,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hilmand",
+    "DISTRICT": "Washer",
+    "irrigated_green": 74007,
+    "total": 424579,
+    "irrigated_blue": 383368,
+    "rainfed_green": 21048,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nuristan",
+    "DISTRICT": "Waygal",
+    "irrigated_green": 124388,
+    "total": 199493,
+    "irrigated_blue": 24016,
+    "rainfed_green": 187126,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktika",
+    "DISTRICT": "Wazakhwa",
+    "irrigated_green": 75166,
+    "total": 240421,
+    "irrigated_blue": 235102,
+    "rainfed_green": 52152,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktika",
+    "DISTRICT": "Wolmamay",
+    "irrigated_green": 67105,
+    "total": 175273,
+    "irrigated_blue": 101816,
+    "rainfed_green": 32160,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Bamyan",
+    "DISTRICT": "Yakawlang",
+    "irrigated_green": 152237,
+    "total": 89908,
+    "irrigated_blue": 41726,
+    "rainfed_green": 20861,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Takhar",
+    "DISTRICT": "Yangi Qala",
+    "irrigated_green": 2699964,
+    "total": 8488180,
+    "irrigated_blue": 5159740,
+    "rainfed_green": 3718623,
+    "rainfed_blue": 292
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Ghazni",
+    "DISTRICT": "Zana Khan",
+    "irrigated_green": 103727,
+    "total": 370880,
+    "irrigated_blue": 71143,
+    "rainfed_green": 196011,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Nimroz",
+    "DISTRICT": "Zaranj",
+    "irrigated_green": 164330,
+    "total": 6538203,
+    "irrigated_blue": 6373873,
+    "rainfed_green": 0,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktika",
+    "DISTRICT": "Zarghun Shahr",
+    "irrigated_green": 487277,
+    "total": 1028960,
+    "irrigated_blue": 494367,
+    "rainfed_green": 173551,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Badakhshan",
+    "DISTRICT": "Zebak",
+    "irrigated_green": 122177,
+    "total": 286382,
+    "irrigated_blue": 20260,
+    "rainfed_green": 333739,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktika",
+    "DISTRICT": "Ziluk",
+    "irrigated_green": 75917,
+    "total": 360232,
+    "irrigated_blue": 44595,
+    "rainfed_green": 239719,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Hirat",
+    "DISTRICT": "Zinda Jan",
+    "irrigated_green": 630495,
+    "total": 1729355,
+    "irrigated_blue": 1702705,
+    "rainfed_green": 250253,
+    "rainfed_blue": 0
+  },
+  {
+    "COUNTRY": "Afghanistan",
+    "PROVINCE": "Paktya",
+    "DISTRICT": "Zurmat",
+    "irrigated_green": 910145,
+    "total": 1682662,
+    "irrigated_blue": 723685,
+    "rainfed_green": 172280,
+    "rainfed_blue": 799
+  }
+ ]
