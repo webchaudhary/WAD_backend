@@ -1,0 +1,226 @@
+[
+  {
+    "BASIN": "B1",
+    "total": 0,
+    "rainfed_green": 0,
+    "rainfed_blue": 0,
+    "irrigated_green": 0,
+    "irrigated_blue": 0
+  },
+  {
+    "BASIN": "B2",
+    "total": 188544.8584,
+    "rainfed_green": 186739.9705,
+    "rainfed_blue": 53.36636589,
+    "irrigated_green": 8686.269896,
+    "irrigated_blue": 39100.27521
+  },
+  {
+    "BASIN": "B3",
+    "total": 47800.08076,
+    "rainfed_green": 117270.0256,
+    "rainfed_blue": 0,
+    "irrigated_green": 0,
+    "irrigated_blue": 0
+  },
+  {
+    "BASIN": "B4",
+    "total": 8777.309455,
+    "rainfed_green": 28288.69511,
+    "rainfed_blue": 0,
+    "irrigated_green": 0,
+    "irrigated_blue": 0
+  },
+  {
+    "BASIN": "B5",
+    "total": 172529.6493,
+    "rainfed_green": 88438.85179,
+    "rainfed_blue": 0,
+    "irrigated_green": 44477.49583,
+    "irrigated_blue": 97817.80273
+  },
+  {
+    "BASIN": "B6",
+    "total": 23372.18306,
+    "rainfed_green": 95736.28859,
+    "rainfed_blue": 0,
+    "irrigated_green": 0,
+    "irrigated_blue": 0
+  },
+  {
+    "BASIN": "B7",
+    "total": 4738008.508,
+    "rainfed_green": 2532788.796,
+    "rainfed_blue": 0,
+    "irrigated_green": 194593.7817,
+    "irrigated_blue": 418030.4932
+  },
+  {
+    "BASIN": "B8",
+    "total": 296272.9438,
+    "rainfed_green": 2669239.176,
+    "rainfed_blue": 0,
+    "irrigated_green": 0,
+    "irrigated_blue": 0
+  },
+  {
+    "BASIN": "B9",
+    "total": 363795.8687,
+    "rainfed_green": 227511.4541,
+    "rainfed_blue": 0,
+    "irrigated_green": 57203.94834,
+    "irrigated_blue": 259894.4721
+  },
+  {
+    "BASIN": "B10",
+    "total": 2302908.273,
+    "rainfed_green": 1229594.836,
+    "rainfed_blue": 3759.138354,
+    "irrigated_green": 5098.857422,
+    "irrigated_blue": 16384.22131
+  },
+  {
+    "BASIN": "B11",
+    "total": 6587741.794,
+    "rainfed_green": 4444203.962,
+    "rainfed_blue": 2369.858076,
+    "irrigated_green": 502666.6222,
+    "irrigated_blue": 565588.1389
+  },
+  {
+    "BASIN": "B12",
+    "total": 11839008.83,
+    "rainfed_green": 9213488.52,
+    "rainfed_blue": 0,
+    "irrigated_green": 0,
+    "irrigated_blue": 0
+  },
+  {
+    "BASIN": "B13",
+    "total": 9448674.493,
+    "rainfed_green": 10614488.03,
+    "rainfed_blue": 1405175.09,
+    "irrigated_green": 484385.2154,
+    "irrigated_blue": 333594.11
+  },
+  {
+    "BASIN": "B14",
+    "total": 7790249.622,
+    "rainfed_green": 8754223.649,
+    "rainfed_blue": 0,
+    "irrigated_green": 153779.3953,
+    "irrigated_blue": 259514.061
+  },
+  {
+    "BASIN": "B15",
+    "total": 13107623.55,
+    "rainfed_green": 10056985.66,
+    "rainfed_blue": 0,
+    "irrigated_green": 1266355.518,
+    "irrigated_blue": 2123694.73
+  },
+  {
+    "BASIN": "B16",
+    "total": 18365437.14,
+    "rainfed_green": 15155376.08,
+    "rainfed_blue": 0,
+    "irrigated_green": 57001.09591,
+    "irrigated_blue": 24055.8876
+  },
+  {
+    "BASIN": "B17",
+    "total": 16309499.72,
+    "rainfed_green": 17130260.04,
+    "rainfed_blue": 52811.56101,
+    "irrigated_green": 727490.2048,
+    "irrigated_blue": 211699.3791
+  },
+  {
+    "BASIN": "B18",
+    "total": 3277261.25,
+    "rainfed_green": 9611260.214,
+    "rainfed_blue": 0,
+    "irrigated_green": 0,
+    "irrigated_blue": 0
+  },
+  {
+    "BASIN": "B19",
+    "total": 0,
+    "rainfed_green": 3277261.25,
+    "rainfed_blue": 0,
+    "irrigated_green": 0,
+    "irrigated_blue": 0
+  },
+  {
+    "BASIN": "B20",
+    "total": 6414520.659,
+    "rainfed_green": 7489199.209,
+    "rainfed_blue": 0,
+    "irrigated_green": 240292.2904,
+    "irrigated_blue": 803909.0362
+  },
+  {
+    "BASIN": "B21",
+    "total": 61902.66309,
+    "rainfed_green": 6084034.998,
+    "rainfed_blue": 0,
+    "irrigated_green": 0,
+    "irrigated_blue": 0
+  },
+  {
+    "BASIN": "B22",
+    "total": 0,
+    "rainfed_green": 61902.66309,
+    "rainfed_blue": 0,
+    "irrigated_green": 0,
+    "irrigated_blue": 0
+  },
+  {
+    "BASIN": "B23",
+    "total": 0,
+    "rainfed_green": 0,
+    "rainfed_blue": 0,
+    "irrigated_green": 0,
+    "irrigated_blue": 0
+  },
+  {
+    "BASIN": "B24",
+    "total": 73804.63126,
+    "rainfed_green": 73804.63126,
+    "rainfed_blue": 0,
+    "irrigated_green": 0,
+    "irrigated_blue": 0
+  },
+  {
+    "BASIN": "B25",
+    "total": 107060.0986,
+    "rainfed_green": 90432.36492,
+    "rainfed_blue": 0,
+    "irrigated_green": 0,
+    "irrigated_blue": 0
+  },
+  {
+    "BASIN": "B26",
+    "total": 46376.68209,
+    "rainfed_green": 77232.65658,
+    "rainfed_blue": 0,
+    "irrigated_green": 0,
+    "irrigated_blue": 0
+  },
+  {
+    "BASIN": "B27",
+    "total": 6891842.739,
+    "rainfed_green": 3571622.615,
+    "rainfed_blue": 0,
+    "irrigated_green": 94880.70985,
+    "irrigated_blue": 76877.59691
+  },
+  {
+    "BASIN": "B28",
+    "total": 7819123.984,
+    "rainfed_green": 7648906.697,
+    "rainfed_blue": 44275.99724,
+    "irrigated_green": 385638.4808,
+    "irrigated_blue": 216807.8195
+  }
+ ]

@@ -15,10 +15,10 @@
 
 3. LandcoverStats: Area in Hectare
 // land cover arrays order
-// AFG_Landcover = ["Snow",	"Builtup area",	"Water body",	"Forest",	"Irrigated agriculture"	"Rainfed agriculture",	"Fruit trees",	"Vineyards",	"Marshland",	"Bare land",	"Rangeland",	"Sand cover",	"Streams"]
-// ESA_Landcover = ["Trees",	"Shrubland",	"Grassland",	"Cropland",	"Builtup", "Bare, Sparse vegetation",	"Snow and ice",	"Permanent water bodies",	"Herbaceous wetland",	"Moss and lichen"]
-// Cropland = ["Ocean and water bodies", "Non-cropland(other land covers)",	"Irrigated cropland",	"Rainfed cropland"]
 
+// ESA_Landcover = ["Trees",	"Shrubland",	"Grassland",	"Cropland",	"Builtup", "Bare, Sparse vegetation",	"Snow and ice",	"Permanent water bodies",	"Herbaceous wetland",	"Mangroves"]
+// Cropland = ["Ocean and water bodies", "Non-cropland(other land covers)",	"Irrigated cropland",	"Rainfed cropland"]
+// WaPOR_Landcover = [ "Shrubland", "Grassland", "Cropland, rainfed", "Cropland, irrigated or under water management", "Built-up", "Bare / sparse vegetation", "Water bodies", "Shrub or herbaceous cover, flooded", "Tree cover: open, deciduous broadleaved", "Tree cover: open, unknown type", "Tree cover: closed, deciduous broadleaved", "Tree cover: closed, unknown type", "Tree cover: closed, evergreen broadleaved" ];
 
 
 4. AllWaterFootprints

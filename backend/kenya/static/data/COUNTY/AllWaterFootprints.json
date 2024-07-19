@@ -1,0 +1,425 @@
+[
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Baringo",
+    "total": 6453635.087,
+    "rainfed_green": 7423485.534,
+    "rainfed_blue": 23166.55282,
+    "irrigated_green": 274929.8802,
+    "irrigated_blue": 228195.1971
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Bomet",
+    "total": 33358184.11,
+    "rainfed_green": 33273987.33,
+    "rainfed_blue": 0,
+    "irrigated_green": 140739.1514,
+    "irrigated_blue": 51332.12083
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Bungoma",
+    "total": 15646823.14,
+    "rainfed_green": 15643858.68,
+    "rainfed_blue": 0,
+    "irrigated_green": 3459.090061,
+    "irrigated_blue": 2323.374793
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Busia",
+    "total": 15311922.99,
+    "rainfed_green": 15160099.56,
+    "rainfed_blue": 52426.71706,
+    "irrigated_green": 158978.8307,
+    "irrigated_blue": 66705.3985
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Elgeyo-Marakwet",
+    "total": 15415267.84,
+    "rainfed_green": 15864164.38,
+    "rainfed_blue": 0,
+    "irrigated_green": 170575.5957,
+    "irrigated_blue": 181596.2698
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Embu",
+    "total": 14224365.2,
+    "rainfed_green": 14681095.82,
+    "rainfed_blue": 0,
+    "irrigated_green": 468653.6257,
+    "irrigated_blue": 401774.3359
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Garissa",
+    "total": 32653.85241,
+    "rainfed_green": 31546.46464,
+    "rainfed_blue": 3759.13842,
+    "irrigated_green": 4105.417355,
+    "irrigated_blue": 13926.5869
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Homa Bay",
+    "total": 10156314.09,
+    "rainfed_green": 9986488.603,
+    "rainfed_blue": 6006.565294,
+    "irrigated_green": 283919.1835,
+    "irrigated_blue": 92510.90854
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Isiolo",
+    "total": 930720.6316,
+    "rainfed_green": 623531.8535,
+    "rainfed_blue": 331.6917188,
+    "irrigated_green": 205702.3674,
+    "irrigated_blue": 827939.7617
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Kajiado",
+    "total": 6598817.665,
+    "rainfed_green": 6209285.851,
+    "rainfed_blue": 1405175.09,
+    "irrigated_green": 411731.8521,
+    "irrigated_blue": 303854.0305
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Kakamega",
+    "total": 21434287.89,
+    "rainfed_green": 21332217.66,
+    "rainfed_blue": 0,
+    "irrigated_green": 175029.9156,
+    "irrigated_blue": 43688.62867
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Kericho",
+    "total": 38693015.62,
+    "rainfed_green": 37926808.89,
+    "rainfed_blue": 0,
+    "irrigated_green": 1262137.031,
+    "irrigated_blue": 232001.4611
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Kiambu",
+    "total": 16330352.37,
+    "rainfed_green": 18601328.82,
+    "rainfed_blue": 0,
+    "irrigated_green": 1307740.046,
+    "irrigated_blue": 632522.0437
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Kilifi",
+    "total": 6917457.539,
+    "rainfed_green": 7302579.888,
+    "rainfed_blue": 0,
+    "irrigated_green": 135712.171,
+    "irrigated_blue": 116764.938
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Kirinyaga",
+    "total": 1684958.792,
+    "rainfed_green": 27390.71788,
+    "rainfed_blue": 0,
+    "irrigated_green": 1699966.835,
+    "irrigated_blue": 0
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Kisii",
+    "total": 29305643.92,
+    "rainfed_green": 29090736.94,
+    "rainfed_blue": 0,
+    "irrigated_green": 328792.9847,
+    "irrigated_blue": 77142.6362
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Kisumu",
+    "total": 14839549.18,
+    "rainfed_green": 11654511.61,
+    "rainfed_blue": 94443.71125,
+    "irrigated_green": 4679427,
+    "irrigated_blue": 1203949.03
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Kitui",
+    "total": 3452247.798,
+    "rainfed_green": 3387709.937,
+    "rainfed_blue": 0,
+    "irrigated_green": 206367.9445,
+    "irrigated_blue": 252046.2569
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Kwale",
+    "total": 8182291.482,
+    "rainfed_green": 8615642.859,
+    "rainfed_blue": 0,
+    "irrigated_green": 60499.47655,
+    "irrigated_blue": 137444.9256
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Laikipia",
+    "total": 5007965.903,
+    "rainfed_green": 4782419.966,
+    "rainfed_blue": 0,
+    "irrigated_green": 246500.8046,
+    "irrigated_blue": 268036.9538
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Lamu",
+    "total": 7262413.215,
+    "rainfed_green": 7262413.215,
+    "rainfed_blue": 0,
+    "irrigated_green": 0,
+    "irrigated_blue": 0
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Machakos",
+    "total": 17238984.24,
+    "rainfed_green": 18338410.87,
+    "rainfed_blue": 0,
+    "irrigated_green": 282143.2612,
+    "irrigated_blue": 287346.7597
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Makueni",
+    "total": 7094687.545,
+    "rainfed_green": 7059970.948,
+    "rainfed_blue": 0,
+    "irrigated_green": 210959.3455,
+    "irrigated_blue": 228096.9135
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Mandera",
+    "total": 324448.3632,
+    "rainfed_green": 240204.8436,
+    "rainfed_blue": 0,
+    "irrigated_green": 44050.37339,
+    "irrigated_blue": 200193.5304
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Marsabit",
+    "total": 241764.2609,
+    "rainfed_green": 241764.2609,
+    "rainfed_blue": 0,
+    "irrigated_green": 0,
+    "irrigated_blue": 0
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Meru",
+    "total": 11033872,
+    "rainfed_green": 10597181.79,
+    "rainfed_blue": 0,
+    "irrigated_green": 519820.6167,
+    "irrigated_blue": 545914.9428
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Migori",
+    "total": 19248568.56,
+    "rainfed_green": 18785935.48,
+    "rainfed_blue": 13080.79348,
+    "irrigated_green": 466157.5013,
+    "irrigated_blue": 180482.5767
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Mombasa",
+    "total": 41530164.93,
+    "rainfed_green": 41530164.93,
+    "rainfed_blue": 0,
+    "irrigated_green": 0,
+    "irrigated_blue": 0
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Murang'a",
+    "total": 11372823.95,
+    "rainfed_green": 14800381.03,
+    "rainfed_blue": 0,
+    "irrigated_green": 370019.0274,
+    "irrigated_blue": 87924.43406
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Nairobi",
+    "total": 2066237.617,
+    "rainfed_green": 1516208.56,
+    "rainfed_blue": 0,
+    "irrigated_green": 480952.9483,
+    "irrigated_blue": 295537.8826
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Nakuru",
+    "total": 10051520.47,
+    "rainfed_green": 10344753.37,
+    "rainfed_blue": 61144.68177,
+    "irrigated_green": 463607.3538,
+    "irrigated_blue": 211657.3477
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Nandi",
+    "total": 8457235.893,
+    "rainfed_green": 8114147.71,
+    "rainfed_blue": 0,
+    "irrigated_green": 1609379.858,
+    "irrigated_blue": 479456.4507
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Narok",
+    "total": 7924395.438,
+    "rainfed_green": 8082482.4,
+    "rainfed_blue": 0,
+    "irrigated_green": 77145.47854,
+    "irrigated_blue": 53333.28143
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Nyamira",
+    "total": 39965921.84,
+    "rainfed_green": 39404358.98,
+    "rainfed_blue": 0,
+    "irrigated_green": 564929.3343,
+    "irrigated_blue": 121425.5823
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Nyandarua",
+    "total": 5199751.277,
+    "rainfed_green": 5167190.596,
+    "rainfed_blue": 0,
+    "irrigated_green": 123958.8344,
+    "irrigated_blue": 133028.6903
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Nyeri",
+    "total": 9579762.835,
+    "rainfed_green": 9853664.89,
+    "rainfed_blue": 0,
+    "irrigated_green": 679276.1592,
+    "irrigated_blue": 156609.8027
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Samburu",
+    "total": 609096.1429,
+    "rainfed_green": 615403.7251,
+    "rainfed_blue": 0,
+    "irrigated_green": 50181.98242,
+    "irrigated_blue": 122270.1691
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Siaya",
+    "total": 11789415.34,
+    "rainfed_green": 11459758.11,
+    "rainfed_blue": 26379.59688,
+    "irrigated_green": 366687.0199,
+    "irrigated_blue": 118790.5554
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Taita Taveta",
+    "total": 6459269.371,
+    "rainfed_green": 5846255.598,
+    "rainfed_blue": 0,
+    "irrigated_green": 501022.0705,
+    "irrigated_blue": 904927.2478
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Tana River",
+    "total": 1205287.741,
+    "rainfed_green": 397652.228,
+    "rainfed_blue": 3230.371769,
+    "irrigated_green": 243583.2262,
+    "irrigated_blue": 1086795.654
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Tharaka-Nithi",
+    "total": 20379169.47,
+    "rainfed_green": 19636430.82,
+    "rainfed_blue": 0,
+    "irrigated_green": 771691.4596,
+    "irrigated_blue": 520800.7741
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Trans Nzoia",
+    "total": 18002342.66,
+    "rainfed_green": 17930598.91,
+    "rainfed_blue": 0,
+    "irrigated_green": 76638.18281,
+    "irrigated_blue": 72827.61918
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Turkana",
+    "total": 892330.085,
+    "rainfed_green": 51386.79003,
+    "rainfed_blue": 0,
+    "irrigated_green": 224600.7778,
+    "irrigated_blue": 981283.6164
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Uasin Gishu",
+    "total": 490584.5699,
+    "rainfed_green": 461644.5407,
+    "rainfed_blue": 0,
+    "irrigated_green": 17368.34908,
+    "irrigated_blue": 54713.99952
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Vihiga",
+    "total": 25776801.82,
+    "rainfed_green": 25233001.24,
+    "rainfed_blue": 0,
+    "irrigated_green": 2602618.079,
+    "irrigated_blue": 660184.0995
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "Wajir",
+    "total": 26766.53315,
+    "rainfed_green": 26063.13863,
+    "rainfed_blue": 53.36636589,
+    "irrigated_green": 10304.93304,
+    "irrigated_blue": 48192.28405
+  },
+  {
+    "COUNTRY": "Kenya",
+    "COUNTY": "West Pokot",
+    "total": 5595415.267,
+    "rainfed_green": 5950395.006,
+    "rainfed_blue": 0,
+    "irrigated_green": 346948.6363,
+    "irrigated_blue": 619130.4536
+  }
+ ]

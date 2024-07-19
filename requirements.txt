@@ -3,3 +3,4 @@ Django
 django-cors-headers
 sqlparse
 typing_extensions
+uWSGI

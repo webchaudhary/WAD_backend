@@ -26,16 +26,23 @@ SECRET_KEY = 'django-insecure-uk!m&yv&(_p+ac53=$7b*cn$fg%2&$yu_)8@uzlfg3+%*fe9q0
 DEBUG = True
 
 
-BASE_URL = "http://localhost:3000"
+# --------------
+# Production
+# --------------
 
-ALLOWED_HOSTS = ['localhost','127.0.0.1','65.108.77.67']
+
+BASE_URL = "https://backend.waterinag.org"
+
+ALLOWED_HOSTS = ['localhost','127.0.0.1','65.108.77.67','backend.waterinag.org']
 
 
 # Application definition
 
 CORS_ALLOWED_ORIGINS = [
-    'http://localhost:3000',  # Ensure no trailing slash
+    'https://afg.waterinag.org','https://kenya.waterinag.org/','http://localhost:3000'  # Ensure no trailing slash
 ]
+
+
 
 
 # Application definition
@@ -157,9 +164,9 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 
-EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_PORT = '587'
-EMAIL_HOST_USER = 'waterinfo.app@gmail.com'
-EMAIL_HOST_PASSWORD = 'mjybzlsntwaxnxgd'
-EMAIL_USE_TLS = True
+# EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+# EMAIL_HOST = 'smtp.gmail.com'
+# EMAIL_PORT = '587'
+# EMAIL_HOST_USER = 'waterinfo.app@gmail.com'
+# EMAIL_HOST_PASSWORD = 'mjybzlsntwaxnxgd'
+# EMAIL_USE_TLS = True
