@@ -1,1136 +1,1115 @@
- [
+[
+  {
+    "CountryName": "Afghanistan",
+    "Avg_Blue_Export": 1726010,
+    "Avg_Blue_Import": 524921,
+    "Avg_Green_Export": 164936160,
+    "Avg_Green_Import": 123985
+  },
   {
     "CountryName": "Albania",
-    "Avg_Green_Import": 7137,
-    "Avg_Green_Export": 84783,
-    "Avg_Blue_Import": 567,
-    "Avg_Blue_Export": 52565
+    "Avg_Blue_Export": 40513,
+    "Avg_Blue_Import": 1804,
+    "Avg_Green_Export": 942994,
+    "Avg_Green_Import": 24482
   },
   {
     "CountryName": "Algeria",
-    "Avg_Green_Import": 48976,
-    "Avg_Green_Export": 398335,
-    "Avg_Blue_Import": 37672,
-    "Avg_Blue_Export": 441240
+    "Avg_Blue_Export": 112514,
+    "Avg_Blue_Import": 48879,
+    "Avg_Green_Export": 5600405,
+    "Avg_Green_Import": 97920
   },
   {
     "CountryName": "Angola",
-    "Avg_Green_Import": 249955,
-    "Avg_Green_Export": 114710,
-    "Avg_Blue_Import": 15717,
-    "Avg_Blue_Export": 157301
+    "Avg_Blue_Export": 145080,
+    "Avg_Blue_Import": 42967,
+    "Avg_Green_Export": 1440790,
+    "Avg_Green_Import": 215610
   },
   {
     "CountryName": "Argentina",
-    "Avg_Green_Import": 24417354,
-    "Avg_Green_Export": 160303,
-    "Avg_Blue_Import": 1421670,
-    "Avg_Blue_Export": 370820
+    "Avg_Blue_Export": 35651,
+    "Avg_Blue_Import": 50306491,
+    "Avg_Green_Export": 614454,
+    "Avg_Green_Import": 634935497
   },
   {
     "CountryName": "Armenia",
-    "Avg_Green_Import": 5042,
-    "Avg_Green_Export": 83896,
-    "Avg_Blue_Import": 16292,
-    "Avg_Blue_Export": 48803
+    "Avg_Blue_Export": 26927,
+    "Avg_Blue_Import": 4961,
+    "Avg_Green_Export": 637284,
+    "Avg_Green_Import": 9460
   },
   {
     "CountryName": "Australia",
-    "Avg_Green_Import": 11398306,
-    "Avg_Green_Export": 624474,
-    "Avg_Blue_Import": 1277245,
-    "Avg_Blue_Export": 1378640
+    "Avg_Blue_Export": 1543634,
+    "Avg_Blue_Import": 3407913,
+    "Avg_Green_Export": 37445216,
+    "Avg_Green_Import": 56422548
   },
   {
     "CountryName": "Austria",
-    "Avg_Green_Import": 554328,
-    "Avg_Green_Export": 566902,
-    "Avg_Blue_Import": 30345,
-    "Avg_Blue_Export": 496731
+    "Avg_Blue_Export": 408833,
+    "Avg_Blue_Import": 83168,
+    "Avg_Green_Export": 10480025,
+    "Avg_Green_Import": 1288506
   },
   {
     "CountryName": "Azerbaijan",
-    "Avg_Green_Import": 1386891,
-    "Avg_Green_Export": 336423,
-    "Avg_Blue_Import": 4049934,
-    "Avg_Blue_Export": 131531
+    "Avg_Blue_Export": 49693,
+    "Avg_Blue_Import": 201188,
+    "Avg_Green_Export": 2841484,
+    "Avg_Green_Import": 64987
   },
   {
     "CountryName": "Bahamas",
-    "Avg_Green_Import": 37,
-    "Avg_Green_Export": 11340,
-    "Avg_Blue_Import": 1,
-    "Avg_Blue_Export": 20562
+    "Avg_Blue_Export": 817,
+    "Avg_Blue_Import": 3,
+    "Avg_Green_Export": 18572,
+    "Avg_Green_Import": 109
   },
   {
     "CountryName": "Bahrain",
-    "Avg_Green_Import": 2,
-    "Avg_Green_Export": 400873,
-    "Avg_Blue_Import": 267,
-    "Avg_Blue_Export": 491301
+    "Avg_Blue_Export": 112191,
+    "Avg_Blue_Import": 2251,
+    "Avg_Green_Export": 1359327,
+    "Avg_Green_Import": 85
   },
   {
     "CountryName": "Bangladesh",
-    "Avg_Green_Import": 852074,
-    "Avg_Green_Export": 2042363,
-    "Avg_Blue_Import": 329139,
-    "Avg_Blue_Export": 10660433
+    "Avg_Blue_Export": 162172,
+    "Avg_Blue_Import": 1162719,
+    "Avg_Green_Export": 13188067,
+    "Avg_Green_Import": 2171462
   },
   {
     "CountryName": "Belarus",
-    "Avg_Green_Import": 1156921,
-    "Avg_Green_Export": 487730,
-    "Avg_Blue_Import": 67963,
-    "Avg_Blue_Export": 300887
+    "Avg_Blue_Export": 133343,
+    "Avg_Blue_Import": 60434,
+    "Avg_Green_Export": 6030802,
+    "Avg_Green_Import": 1058113
   },
   {
     "CountryName": "Belgium",
-    "Avg_Green_Import": 1330932,
-    "Avg_Green_Export": 1795823,
-    "Avg_Blue_Import": 253405,
-    "Avg_Blue_Export": 4851998
+    "Avg_Blue_Export": 999728,
+    "Avg_Blue_Import": 814514,
+    "Avg_Green_Export": 20410968,
+    "Avg_Green_Import": 2890859
   },
   {
     "CountryName": "Belize",
-    "Avg_Green_Import": 19526,
-    "Avg_Green_Export": 7344,
-    "Avg_Blue_Import": 67,
-    "Avg_Blue_Export": 5030
+    "Avg_Blue_Export": 2620,
+    "Avg_Blue_Import": 347,
+    "Avg_Green_Export": 72976,
+    "Avg_Green_Import": 40348
   },
   {
     "CountryName": "Benin",
-    "Avg_Green_Import": 6899104,
-    "Avg_Green_Export": 82870,
-    "Avg_Blue_Import": 4307,
-    "Avg_Blue_Export": 160973
+    "Avg_Blue_Export": 12959,
+    "Avg_Blue_Import": 5181,
+    "Avg_Green_Export": 214284,
+    "Avg_Green_Import": 818998
   },
   {
     "CountryName": "Bhutan",
-    "Avg_Green_Import": 0,
-    "Avg_Green_Export": 590,
-    "Avg_Blue_Import": 339,
-    "Avg_Blue_Export": 2952
+    "Avg_Blue_Export": 493,
+    "Avg_Blue_Import": 1609,
+    "Avg_Green_Export": 3528,
+    "Avg_Green_Import": 0
   },
   {
     "CountryName": "Bolivia",
-    "Avg_Green_Import": 4620098,
-    "Avg_Green_Export": 48318,
-    "Avg_Blue_Import": 8739,
-    "Avg_Blue_Export": 57328
+    "Avg_Blue_Export": 6673,
+    "Avg_Blue_Import": 8618,
+    "Avg_Green_Export": 235795,
+    "Avg_Green_Import": 701818
   },
   {
     "CountryName": "Bosnia and Herzegovina",
-    "Avg_Green_Import": 197399,
-    "Avg_Green_Export": 140900,
-    "Avg_Blue_Import": 7287,
-    "Avg_Blue_Export": 119973
+    "Avg_Blue_Export": 130014,
+    "Avg_Blue_Import": 1437,
+    "Avg_Green_Export": 3225929,
+    "Avg_Green_Import": 48777
   },
   {
     "CountryName": "Botswana",
-    "Avg_Green_Import": 37948,
-    "Avg_Green_Export": 69869,
-    "Avg_Blue_Import": 2091,
-    "Avg_Blue_Export": 238497
+    "Avg_Blue_Export": 79047,
+    "Avg_Blue_Import": 7033,
+    "Avg_Green_Export": 829367,
+    "Avg_Green_Import": 38461
   },
   {
     "CountryName": "Brazil",
-    "Avg_Green_Import": 55499512,
-    "Avg_Green_Export": 1671529,
-    "Avg_Blue_Import": 814875,
-    "Avg_Blue_Export": 1350912
+    "Avg_Blue_Export": 150310,
+    "Avg_Blue_Import": 2785566,
+    "Avg_Green_Export": 2437919,
+    "Avg_Green_Import": 108067368
   },
   {
     "CountryName": "Brunei Darussalam",
-    "Avg_Green_Import": 3380,
-    "Avg_Green_Export": 39188,
-    "Avg_Blue_Import": 18,
-    "Avg_Blue_Export": 55776
+    "Avg_Blue_Export": 3762,
+    "Avg_Blue_Import": 62,
+    "Avg_Green_Export": 62417,
+    "Avg_Green_Import": 8332
   },
   {
     "CountryName": "Bulgaria",
-    "Avg_Green_Import": 24677770,
-    "Avg_Green_Export": 257170,
-    "Avg_Blue_Import": 88987,
-    "Avg_Blue_Export": 214958
+    "Avg_Blue_Export": 105414,
+    "Avg_Blue_Import": 163977,
+    "Avg_Green_Export": 2712589,
+    "Avg_Green_Import": 6641851
   },
   {
     "CountryName": "Burkina Faso",
-    "Avg_Green_Import": 4370760,
-    "Avg_Green_Export": 15814,
-    "Avg_Blue_Import": 40067,
-    "Avg_Blue_Export": 34592
+    "Avg_Blue_Export": 51284,
+    "Avg_Blue_Import": 10918,
+    "Avg_Green_Export": 1770139,
+    "Avg_Green_Import": 5435510
   },
   {
     "CountryName": "Burundi",
-    "Avg_Green_Import": 640166,
-    "Avg_Green_Export": 7281,
-    "Avg_Blue_Import": 571,
-    "Avg_Blue_Export": 38706
+    "Avg_Blue_Export": 748844,
+    "Avg_Blue_Import": 39561,
+    "Avg_Green_Export": 5494066,
+    "Avg_Green_Import": 754886
   },
   {
     "CountryName": "CSSR/Czech Republic (1990/1991)",
-    "Avg_Green_Import": 991363,
-    "Avg_Green_Export": 653818,
-    "Avg_Blue_Import": 28044,
-    "Avg_Blue_Export": 664324
+    "Avg_Blue_Export": 264910,
+    "Avg_Blue_Import": 50983,
+    "Avg_Green_Export": 8752612,
+    "Avg_Green_Import": 6942123
   },
   {
     "CountryName": "Cambodia",
-    "Avg_Green_Import": 1514600,
-    "Avg_Green_Export": 18295,
-    "Avg_Blue_Import": 176403,
-    "Avg_Blue_Export": 12879
+    "Avg_Blue_Export": 27732,
+    "Avg_Blue_Import": 381147,
+    "Avg_Green_Export": 927772,
+    "Avg_Green_Import": 3439809
   },
   {
     "CountryName": "Cameroon",
-    "Avg_Green_Import": 458362,
-    "Avg_Green_Export": 36468,
-    "Avg_Blue_Import": 16775,
-    "Avg_Blue_Export": 114204
+    "Avg_Blue_Export": 70205,
+    "Avg_Blue_Import": 44101,
+    "Avg_Green_Export": 2812878,
+    "Avg_Green_Import": 1149879
   },
   {
     "CountryName": "Canada",
-    "Avg_Green_Import": 12065095,
-    "Avg_Green_Export": 1726578,
-    "Avg_Blue_Import": 1009710,
-    "Avg_Blue_Export": 2327343
+    "Avg_Blue_Export": 1426810,
+    "Avg_Blue_Import": 9107840,
+    "Avg_Green_Export": 35749892,
+    "Avg_Green_Import": 116904030
   },
   {
     "CountryName": "Central African Republic",
-    "Avg_Green_Import": 45000,
-    "Avg_Green_Export": 1575,
-    "Avg_Blue_Import": 831,
-    "Avg_Blue_Export": 10056
+    "Avg_Blue_Export": 38419,
+    "Avg_Blue_Import": 21996,
+    "Avg_Green_Export": 437460,
+    "Avg_Green_Import": 1498671
   },
   {
     "CountryName": "Chad",
-    "Avg_Green_Import": 172545,
-    "Avg_Green_Export": 9014,
-    "Avg_Blue_Import": 21538,
-    "Avg_Blue_Export": 22985
+    "Avg_Blue_Export": 29033,
+    "Avg_Blue_Import": 51225,
+    "Avg_Green_Export": 8447615,
+    "Avg_Green_Import": 2449048
   },
   {
     "CountryName": "Chile",
-    "Avg_Green_Import": 490349,
-    "Avg_Green_Export": 243085,
-    "Avg_Blue_Import": 329924,
-    "Avg_Blue_Export": 737078
+    "Avg_Blue_Export": 141676,
+    "Avg_Blue_Import": 359129,
+    "Avg_Green_Export": 10647441,
+    "Avg_Green_Import": 448908
   },
   {
     "CountryName": "China",
-    "Avg_Green_Import": 130427859,
-    "Avg_Green_Export": 11100788,
-    "Avg_Blue_Import": 15660412,
-    "Avg_Blue_Export": 14022161
+    "Avg_Blue_Export": 3763981,
+    "Avg_Blue_Import": 75182839,
+    "Avg_Green_Export": 77333571,
+    "Avg_Green_Import": 79068297
   },
   {
     "CountryName": "Colombia",
-    "Avg_Green_Import": 1346782,
-    "Avg_Green_Export": 378304,
-    "Avg_Blue_Import": 40768,
-    "Avg_Blue_Export": 617651
+    "Avg_Blue_Export": 59780,
+    "Avg_Blue_Import": 41266,
+    "Avg_Green_Export": 2159842,
+    "Avg_Green_Import": 1239895
   },
   {
     "CountryName": "Costa Rica",
-    "Avg_Green_Import": 630467,
-    "Avg_Green_Export": 110824,
-    "Avg_Blue_Import": 27082,
-    "Avg_Blue_Export": 198358
+    "Avg_Blue_Export": 14225,
+    "Avg_Blue_Import": 19009,
+    "Avg_Green_Export": 481405,
+    "Avg_Green_Import": 269430
   },
   {
     "CountryName": "Cote d'Ivoire",
-    "Avg_Green_Import": 0,
-    "Avg_Green_Export": 46077,
-    "Avg_Blue_Import": 248,
-    "Avg_Blue_Export": 221471
+    "Avg_Blue_Export": 62239,
+    "Avg_Blue_Import": 2455,
+    "Avg_Green_Export": 170947,
+    "Avg_Green_Import": 0
   },
   {
     "CountryName": "Croatia",
-    "Avg_Green_Import": 965071,
-    "Avg_Green_Export": 322429,
-    "Avg_Blue_Import": 31140,
-    "Avg_Blue_Export": 243958
+    "Avg_Blue_Export": 115635,
+    "Avg_Blue_Import": 54280,
+    "Avg_Green_Export": 3204072,
+    "Avg_Green_Import": 1531702
   },
   {
     "CountryName": "Cuba",
-    "Avg_Green_Import": 637102,
-    "Avg_Green_Export": 299290,
-    "Avg_Blue_Import": 94198,
-    "Avg_Blue_Export": 466313
+    "Avg_Blue_Export": 17354,
+    "Avg_Blue_Import": 155180,
+    "Avg_Green_Export": 3343097,
+    "Avg_Green_Import": 1027016
   },
   {
     "CountryName": "Cyprus",
-    "Avg_Green_Import": 29363,
-    "Avg_Green_Export": 89731,
-    "Avg_Blue_Import": 19265,
-    "Avg_Blue_Export": 91151
+    "Avg_Blue_Export": 34201,
+    "Avg_Blue_Import": 134127,
+    "Avg_Green_Export": 721131,
+    "Avg_Green_Import": 163975
   },
   {
     "CountryName": "DR Congo",
-    "Avg_Green_Import": 496256,
-    "Avg_Green_Export": 99652,
-    "Avg_Blue_Import": 1925,
-    "Avg_Blue_Export": 442360
+    "Avg_Blue_Export": 4607660,
+    "Avg_Blue_Import": 23466,
+    "Avg_Green_Export": 32320157,
+    "Avg_Green_Import": 1512321
   },
   {
     "CountryName": "Denmark",
-    "Avg_Green_Import": 361245,
-    "Avg_Green_Export": 1200658,
-    "Avg_Blue_Import": 55303,
-    "Avg_Blue_Export": 1055735
+    "Avg_Blue_Export": 659734,
+    "Avg_Blue_Import": 236971,
+    "Avg_Green_Export": 16018874,
+    "Avg_Green_Import": 1746345
   },
   {
     "CountryName": "Djibouti",
-    "Avg_Green_Import": 6739,
-    "Avg_Green_Export": 41542,
-    "Avg_Blue_Import": 212,
-    "Avg_Blue_Export": 104887
+    "Avg_Blue_Export": 58775,
+    "Avg_Blue_Import": 1529,
+    "Avg_Green_Export": 2921349,
+    "Avg_Green_Import": 113598
   },
   {
     "CountryName": "Dominican Republic",
-    "Avg_Green_Import": 975333,
-    "Avg_Green_Export": 380834,
-    "Avg_Blue_Import": 350655,
-    "Avg_Blue_Export": 880215
+    "Avg_Blue_Export": 19859,
+    "Avg_Blue_Import": 120474,
+    "Avg_Green_Export": 518925,
+    "Avg_Green_Import": 258535
   },
   {
     "CountryName": "Ecuador",
-    "Avg_Green_Import": 4963198,
-    "Avg_Green_Export": 126579,
-    "Avg_Blue_Import": 1788798,
-    "Avg_Blue_Export": 228540
+    "Avg_Blue_Export": 7936,
+    "Avg_Blue_Import": 83925,
+    "Avg_Green_Export": 399330,
+    "Avg_Green_Import": 353623
   },
   {
     "CountryName": "Egypt",
-    "Avg_Green_Import": 497942,
-    "Avg_Green_Export": 477775,
-    "Avg_Blue_Import": 9049011,
-    "Avg_Blue_Export": 1100514
+    "Avg_Blue_Export": 4948521,
+    "Avg_Blue_Import": 90937460,
+    "Avg_Green_Export": 415180551,
+    "Avg_Green_Import": 1260487
   },
   {
     "CountryName": "El Salvador",
-    "Avg_Green_Import": 269794,
-    "Avg_Green_Export": 149433,
-    "Avg_Blue_Import": 40304,
-    "Avg_Blue_Export": 177939
-  },
-  {
-    "CountryName": "Equatorial Guinea",
-    "Avg_Green_Import": 0,
-    "Avg_Green_Export": 7814,
-    "Avg_Blue_Import": 0,
-    "Avg_Blue_Export": 24189
+    "Avg_Blue_Export": 14595,
+    "Avg_Blue_Import": 35829,
+    "Avg_Green_Export": 244874,
+    "Avg_Green_Import": 199776
   },
   {
     "CountryName": "Eritrea",
-    "Avg_Green_Import": 15696,
-    "Avg_Green_Export": 3750,
-    "Avg_Blue_Import": 2669,
-    "Avg_Blue_Export": 3764
+    "Avg_Blue_Export": 26948,
+    "Avg_Blue_Import": 33896,
+    "Avg_Green_Export": 564460,
+    "Avg_Green_Import": 78656
   },
   {
     "CountryName": "Estonia",
-    "Avg_Green_Import": 1598431,
-    "Avg_Green_Export": 184661,
-    "Avg_Blue_Import": 38768,
-    "Avg_Blue_Export": 169107
+    "Avg_Blue_Export": 68153,
+    "Avg_Blue_Import": 62217,
+    "Avg_Green_Export": 1532089,
+    "Avg_Green_Import": 2305289
   },
   {
     "CountryName": "Ethiopia/DR Ethiopia (1992/1993)",
-    "Avg_Green_Import": 2088327,
-    "Avg_Green_Export": 67157,
-    "Avg_Blue_Import": 58950,
-    "Avg_Blue_Export": 193502
+    "Avg_Blue_Export": 3246683,
+    "Avg_Blue_Import": 8109662,
+    "Avg_Green_Export": 2731351,
+    "Avg_Green_Import": 83210436
   },
   {
     "CountryName": "Finland",
-    "Avg_Green_Import": 162645,
-    "Avg_Green_Export": 8743791,
-    "Avg_Blue_Import": 20545,
-    "Avg_Blue_Export": 1042563
+    "Avg_Blue_Export": 912181,
+    "Avg_Blue_Import": 133822,
+    "Avg_Green_Export": 21218239,
+    "Avg_Green_Import": 336530
   },
   {
     "CountryName": "France",
-    "Avg_Green_Import": 7274566,
-    "Avg_Green_Export": 7181373,
-    "Avg_Blue_Import": 208085,
-    "Avg_Blue_Export": 6260370
+    "Avg_Blue_Export": 3634444,
+    "Avg_Blue_Import": 625580,
+    "Avg_Green_Export": 75372568,
+    "Avg_Green_Import": 19287856
   },
   {
     "CountryName": "Gabon",
-    "Avg_Green_Import": 16226,
-    "Avg_Green_Export": 301369,
-    "Avg_Blue_Import": 124,
-    "Avg_Blue_Export": 96753
+    "Avg_Blue_Export": 8827,
+    "Avg_Blue_Import": 801,
+    "Avg_Green_Export": 51588,
+    "Avg_Green_Import": 133597
   },
   {
     "CountryName": "Gambia",
-    "Avg_Green_Import": 21073,
-    "Avg_Green_Export": 9052,
-    "Avg_Blue_Import": 209,
-    "Avg_Blue_Export": 18343
+    "Avg_Blue_Export": 9788,
+    "Avg_Blue_Import": 304,
+    "Avg_Green_Export": 607702,
+    "Avg_Green_Import": 3597
   },
   {
     "CountryName": "Georgia",
-    "Avg_Green_Import": 347336,
-    "Avg_Green_Export": 131781,
-    "Avg_Blue_Import": 53057,
-    "Avg_Blue_Export": 59064
+    "Avg_Blue_Export": 42982,
+    "Avg_Blue_Import": 44287,
+    "Avg_Green_Export": 1359160,
+    "Avg_Green_Import": 24414
   },
   {
     "CountryName": "Germany",
-    "Avg_Green_Import": 4010352,
-    "Avg_Green_Export": 9141249,
-    "Avg_Blue_Import": 274326,
-    "Avg_Blue_Export": 12036808
+    "Avg_Blue_Export": 3526017,
+    "Avg_Blue_Import": 1171318,
+    "Avg_Green_Export": 79992818,
+    "Avg_Green_Import": 37186320
   },
   {
     "CountryName": "Ghana",
-    "Avg_Green_Import": 3035202,
-    "Avg_Green_Export": 473900,
-    "Avg_Blue_Import": 2500,
-    "Avg_Blue_Export": 406492
+    "Avg_Blue_Export": 195997,
+    "Avg_Blue_Import": 9546,
+    "Avg_Green_Export": 5389756,
+    "Avg_Green_Import": 2179977
   },
   {
     "CountryName": "Greece",
-    "Avg_Green_Import": 1097045,
-    "Avg_Green_Export": 959896,
-    "Avg_Blue_Import": 306743,
-    "Avg_Blue_Export": 1105076
+    "Avg_Blue_Export": 301868,
+    "Avg_Blue_Import": 452654,
+    "Avg_Green_Export": 11333610,
+    "Avg_Green_Import": 1949104
   },
   {
     "CountryName": "Guatemala",
-    "Avg_Green_Import": 3161663,
-    "Avg_Green_Export": 88983,
-    "Avg_Blue_Import": 386846,
-    "Avg_Blue_Export": 156619
+    "Avg_Blue_Export": 16590,
+    "Avg_Blue_Import": 736148,
+    "Avg_Green_Export": 461024,
+    "Avg_Green_Import": 5368310
   },
   {
     "CountryName": "Guinea",
-    "Avg_Green_Import": 1613530,
-    "Avg_Green_Export": 11607,
-    "Avg_Blue_Import": 15528,
-    "Avg_Blue_Export": 28776
+    "Avg_Blue_Export": 22316,
+    "Avg_Blue_Import": 42616,
+    "Avg_Green_Export": 719798,
+    "Avg_Green_Import": 2391004
   },
   {
     "CountryName": "Haiti",
-    "Avg_Green_Import": 3578,
-    "Avg_Green_Export": 13796,
-    "Avg_Blue_Import": 139,
-    "Avg_Blue_Export": 51930
+    "Avg_Blue_Export": 6978,
+    "Avg_Blue_Import": 401,
+    "Avg_Green_Export": 154500,
+    "Avg_Green_Import": 8561
   },
   {
     "CountryName": "Honduras",
-    "Avg_Green_Import": 342862,
-    "Avg_Green_Export": 82388,
-    "Avg_Blue_Import": 31918,
-    "Avg_Blue_Export": 200261
-  },
-  {
-    "CountryName": "Hong Kong",
-    "Avg_Green_Import": 0,
-    "Avg_Green_Export": 543796,
-    "Avg_Blue_Import": 0,
-    "Avg_Blue_Export": 667860
+    "Avg_Blue_Export": 16576,
+    "Avg_Blue_Import": 59584,
+    "Avg_Green_Export": 501659,
+    "Avg_Green_Import": 837661
   },
   {
     "CountryName": "Hungary",
-    "Avg_Green_Import": 4664595,
-    "Avg_Green_Export": 298492,
-    "Avg_Blue_Import": 308715,
-    "Avg_Blue_Export": 253006
+    "Avg_Blue_Export": 130026,
+    "Avg_Blue_Import": 376123,
+    "Avg_Green_Export": 3947910,
+    "Avg_Green_Import": 5757137
   },
   {
     "CountryName": "Iceland",
-    "Avg_Green_Import": 0,
-    "Avg_Green_Export": 53129,
-    "Avg_Blue_Import": 152,
-    "Avg_Blue_Export": 37443
+    "Avg_Blue_Export": 38582,
+    "Avg_Blue_Import": 663,
+    "Avg_Green_Export": 606179,
+    "Avg_Green_Import": 0
   },
   {
     "CountryName": "India",
-    "Avg_Green_Import": 224694520,
-    "Avg_Green_Export": 45159712,
-    "Avg_Blue_Import": 65836112,
-    "Avg_Blue_Export": 59308984
+    "Avg_Blue_Export": 1477087,
+    "Avg_Blue_Import": 98278588,
+    "Avg_Green_Export": 54640031,
+    "Avg_Green_Import": 285457454
   },
   {
     "CountryName": "Indonesia",
-    "Avg_Green_Import": 132746913,
-    "Avg_Green_Export": 942098,
-    "Avg_Blue_Import": 889787,
-    "Avg_Blue_Export": 1265273
+    "Avg_Blue_Export": 534455,
+    "Avg_Blue_Import": 9904291,
+    "Avg_Green_Export": 22323364,
+    "Avg_Green_Import": 1438635307
   },
   {
     "CountryName": "Iran",
-    "Avg_Green_Import": 127935334,
-    "Avg_Green_Export": 15366105,
-    "Avg_Blue_Import": 124473852,
-    "Avg_Blue_Export": 7282223
+    "Avg_Blue_Export": 812507,
+    "Avg_Blue_Import": 1886585,
+    "Avg_Green_Export": 50492555,
+    "Avg_Green_Import": 5205790
   },
   {
     "CountryName": "Iraq",
-    "Avg_Green_Import": 251667,
-    "Avg_Green_Export": 8280943,
-    "Avg_Blue_Import": 354220,
-    "Avg_Blue_Export": 7701477
+    "Avg_Blue_Export": 372418,
+    "Avg_Blue_Import": 1368460,
+    "Avg_Green_Export": 16738053,
+    "Avg_Green_Import": 953077
   },
   {
     "CountryName": "Ireland",
-    "Avg_Green_Import": 312014,
-    "Avg_Green_Export": 622663,
-    "Avg_Blue_Import": 13209,
-    "Avg_Blue_Export": 955315
+    "Avg_Blue_Export": 531206,
+    "Avg_Blue_Import": 57006,
+    "Avg_Green_Export": 31664882,
+    "Avg_Green_Import": 781412
   },
   {
     "CountryName": "Israel",
-    "Avg_Green_Import": 90084,
-    "Avg_Green_Export": 472823,
-    "Avg_Blue_Import": 77556,
-    "Avg_Blue_Export": 337144
+    "Avg_Blue_Export": 410088,
+    "Avg_Blue_Import": 174517,
+    "Avg_Green_Export": 8968519,
+    "Avg_Green_Import": 216848
   },
   {
     "CountryName": "Italy",
-    "Avg_Green_Import": 2122323,
-    "Avg_Green_Export": 4012623,
-    "Avg_Blue_Import": 408994,
-    "Avg_Blue_Export": 5133522
+    "Avg_Blue_Export": 1749208,
+    "Avg_Blue_Import": 1515649,
+    "Avg_Green_Export": 46223220,
+    "Avg_Green_Import": 15856408
   },
   {
     "CountryName": "Jamaica",
-    "Avg_Green_Import": 6263,
-    "Avg_Green_Export": 55821,
-    "Avg_Blue_Import": 878,
-    "Avg_Blue_Export": 70784
+    "Avg_Blue_Export": 8638,
+    "Avg_Blue_Import": 4496,
+    "Avg_Green_Export": 310561,
+    "Avg_Green_Import": 20845
   },
   {
     "CountryName": "Japan",
-    "Avg_Green_Import": 285489,
-    "Avg_Green_Export": 2242181,
-    "Avg_Blue_Import": 72050,
-    "Avg_Blue_Export": 3964802
+    "Avg_Blue_Export": 1208110,
+    "Avg_Blue_Import": 647161,
+    "Avg_Green_Export": 47139158,
+    "Avg_Green_Import": 528336
   },
   {
     "CountryName": "Jordan",
-    "Avg_Green_Import": 51872,
-    "Avg_Green_Export": 283856,
-    "Avg_Blue_Import": 18228,
-    "Avg_Blue_Export": 432036
+    "Avg_Blue_Export": 571139,
+    "Avg_Blue_Import": 28895,
+    "Avg_Green_Export": 24180136,
+    "Avg_Green_Import": 489958
   },
   {
     "CountryName": "Kazakhstan",
-    "Avg_Green_Import": 6140486296,
-    "Avg_Green_Export": 6888367,
-    "Avg_Blue_Import": 1313636111,
-    "Avg_Blue_Export": 3563894
-  },
-  {
-    "CountryName": "Kenya",
-    "Avg_Green_Import": 164936160,
-    "Avg_Green_Export": 123985,
-    "Avg_Blue_Import": 1726010,
-    "Avg_Blue_Export": 524921
+    "Avg_Blue_Export": 784973,
+    "Avg_Blue_Import": 4363843,
+    "Avg_Green_Export": 67284578,
+    "Avg_Green_Import": 16287217
   },
   {
     "CountryName": "Kuwait",
-    "Avg_Green_Import": 16000,
-    "Avg_Green_Export": 353719,
-    "Avg_Blue_Import": 929,
-    "Avg_Blue_Export": 502612
+    "Avg_Blue_Export": 321598,
+    "Avg_Blue_Import": 5037,
+    "Avg_Green_Export": 9740142,
+    "Avg_Green_Import": 95530
   },
   {
     "CountryName": "Kyrgyzstan",
-    "Avg_Green_Import": 705703,
-    "Avg_Green_Export": 147803,
-    "Avg_Blue_Import": 809424,
-    "Avg_Blue_Export": 98206
+    "Avg_Blue_Export": 68697,
+    "Avg_Blue_Import": 309771,
+    "Avg_Green_Export": 5738407,
+    "Avg_Green_Import": 275628
   },
   {
     "CountryName": "Laos",
-    "Avg_Green_Import": 1250544,
-    "Avg_Green_Export": 18130,
-    "Avg_Blue_Import": 57595,
-    "Avg_Blue_Export": 40203
+    "Avg_Blue_Export": 9683,
+    "Avg_Blue_Import": 205396,
+    "Avg_Green_Export": 432995,
+    "Avg_Green_Import": 3604979
   },
   {
     "CountryName": "Latvia",
-    "Avg_Green_Import": 9864397,
-    "Avg_Green_Export": 181069,
-    "Avg_Blue_Import": 161951,
-    "Avg_Blue_Export": 193468
+    "Avg_Blue_Export": 56988,
+    "Avg_Blue_Import": 884159,
+    "Avg_Green_Export": 1913882,
+    "Avg_Green_Import": 49513012
   },
   {
     "CountryName": "Lebanon",
-    "Avg_Green_Import": 73987,
-    "Avg_Green_Export": 216018,
-    "Avg_Blue_Import": 74075,
-    "Avg_Blue_Export": 283317
+    "Avg_Blue_Export": 133355,
+    "Avg_Blue_Import": 67070,
+    "Avg_Green_Export": 4668859,
+    "Avg_Green_Import": 194884
   },
   {
     "CountryName": "Liberia",
-    "Avg_Green_Import": 302130,
-    "Avg_Green_Export": 3595,
-    "Avg_Blue_Import": 641,
-    "Avg_Blue_Export": 3642
+    "Avg_Blue_Export": 1296,
+    "Avg_Blue_Import": 2008,
+    "Avg_Green_Export": 20130,
+    "Avg_Green_Import": 880640
   },
   {
     "CountryName": "Libya",
-    "Avg_Green_Import": 22659,
-    "Avg_Green_Export": 371952,
-    "Avg_Blue_Import": 25205,
-    "Avg_Blue_Export": 282178
+    "Avg_Blue_Export": 165435,
+    "Avg_Blue_Import": 27880,
+    "Avg_Green_Export": 4296482,
+    "Avg_Green_Import": 25601
   },
   {
     "CountryName": "Lithuania",
-    "Avg_Green_Import": 5642172,
-    "Avg_Green_Export": 309708,
-    "Avg_Blue_Import": 74224,
-    "Avg_Blue_Export": 388114
+    "Avg_Blue_Export": 96196,
+    "Avg_Blue_Import": 312168,
+    "Avg_Green_Export": 2616870,
+    "Avg_Green_Import": 35255569
   },
   {
     "CountryName": "Luxembourg",
-    "Avg_Green_Import": 12340,
-    "Avg_Green_Export": 98577,
-    "Avg_Blue_Import": 1196,
-    "Avg_Blue_Export": 126567
+    "Avg_Blue_Export": 88933,
+    "Avg_Blue_Import": 2096,
+    "Avg_Green_Export": 1975801,
+    "Avg_Green_Import": 57956
   },
   {
     "CountryName": "Macedonia",
-    "Avg_Green_Import": 0,
-    "Avg_Green_Export": 47433,
-    "Avg_Blue_Import": 292,
-    "Avg_Blue_Export": 41328
+    "Avg_Blue_Export": 2877,
+    "Avg_Blue_Import": 911,
+    "Avg_Green_Export": 56829,
+    "Avg_Green_Import": 0
   },
   {
     "CountryName": "Madagascar",
-    "Avg_Green_Import": 3260114,
-    "Avg_Green_Export": 51566,
-    "Avg_Blue_Import": 20102,
-    "Avg_Blue_Export": 310573
+    "Avg_Blue_Export": 188955,
+    "Avg_Blue_Import": 1381434,
+    "Avg_Green_Export": 1344048,
+    "Avg_Green_Import": 19310400
   },
   {
     "CountryName": "Malawi",
-    "Avg_Green_Import": 3479709,
-    "Avg_Green_Export": 10590,
-    "Avg_Blue_Import": 261875,
-    "Avg_Blue_Export": 38522
+    "Avg_Blue_Export": 753926,
+    "Avg_Blue_Import": 14801354,
+    "Avg_Green_Export": 2852327,
+    "Avg_Green_Import": 138830395
   },
   {
     "CountryName": "Malaysia",
-    "Avg_Green_Import": 401036267,
-    "Avg_Green_Export": 791239,
-    "Avg_Blue_Import": 1061389,
-    "Avg_Blue_Export": 2917799
+    "Avg_Blue_Export": 238960,
+    "Avg_Blue_Import": 1204971,
+    "Avg_Green_Export": 11239415,
+    "Avg_Green_Import": 400200285
   },
   {
     "CountryName": "Mali",
-    "Avg_Green_Import": 762483,
-    "Avg_Green_Export": 28103,
-    "Avg_Blue_Import": 32204,
-    "Avg_Blue_Export": 30956
+    "Avg_Blue_Export": 51118,
+    "Avg_Blue_Import": 566362,
+    "Avg_Green_Export": 836163,
+    "Avg_Green_Import": 7011723
   },
   {
     "CountryName": "Malta",
-    "Avg_Green_Import": 0,
-    "Avg_Green_Export": 46313,
-    "Avg_Blue_Import": 26,
-    "Avg_Blue_Export": 54303
+    "Avg_Blue_Export": 12966,
+    "Avg_Blue_Import": 257,
+    "Avg_Green_Export": 342357,
+    "Avg_Green_Import": 0
   },
   {
     "CountryName": "Mauritania",
-    "Avg_Green_Import": 10519,
-    "Avg_Green_Export": 41192,
-    "Avg_Blue_Import": 1511,
-    "Avg_Blue_Export": 106019
+    "Avg_Blue_Export": 26554,
+    "Avg_Blue_Import": 16391,
+    "Avg_Green_Export": 716327,
+    "Avg_Green_Import": 184214
   },
   {
     "CountryName": "Mexico",
-    "Avg_Green_Import": 60789366,
-    "Avg_Green_Export": 1609013,
-    "Avg_Blue_Import": 48271789,
-    "Avg_Blue_Export": 1806422
+    "Avg_Blue_Export": 427016,
+    "Avg_Blue_Import": 1421059,
+    "Avg_Green_Export": 16460547,
+    "Avg_Green_Import": 3759051
   },
   {
     "CountryName": "Moldova",
-    "Avg_Green_Import": 2042914,
-    "Avg_Green_Export": 48289,
-    "Avg_Blue_Import": 10375,
-    "Avg_Blue_Export": 43784
+    "Avg_Blue_Export": 23327,
+    "Avg_Blue_Import": 12648,
+    "Avg_Green_Export": 1128861,
+    "Avg_Green_Import": 1818876
   },
   {
     "CountryName": "Mongolia",
-    "Avg_Green_Import": 25583,
-    "Avg_Green_Export": 42395,
-    "Avg_Blue_Import": 7357,
-    "Avg_Blue_Export": 41649
+    "Avg_Blue_Export": 23046,
+    "Avg_Blue_Import": 28203,
+    "Avg_Green_Export": 817299,
+    "Avg_Green_Import": 74486
   },
   {
     "CountryName": "Morocco",
-    "Avg_Green_Import": 448943,
-    "Avg_Green_Export": 422506,
-    "Avg_Blue_Import": 649201,
-    "Avg_Blue_Export": 780318
+    "Avg_Blue_Export": 148837,
+    "Avg_Blue_Import": 222266,
+    "Avg_Green_Export": 4571427,
+    "Avg_Green_Import": 755944
   },
   {
     "CountryName": "Mozambique",
-    "Avg_Green_Import": 16288255,
-    "Avg_Green_Export": 70492,
-    "Avg_Blue_Import": 97983,
-    "Avg_Blue_Export": 470428
+    "Avg_Blue_Export": 276424,
+    "Avg_Blue_Import": 579474,
+    "Avg_Green_Export": 2452589,
+    "Avg_Green_Import": 17885143
   },
   {
     "CountryName": "Myanmar",
-    "Avg_Green_Import": 23942387,
-    "Avg_Green_Export": 99519,
-    "Avg_Blue_Import": 2671630,
-    "Avg_Blue_Export": 110697
+    "Avg_Blue_Export": 67597,
+    "Avg_Blue_Import": 891736,
+    "Avg_Green_Export": 4219368,
+    "Avg_Green_Import": 11069395
   },
   {
     "CountryName": "Namibia",
-    "Avg_Green_Import": 28224,
-    "Avg_Green_Export": 65071,
-    "Avg_Blue_Import": 1836,
-    "Avg_Blue_Export": 346257
+    "Avg_Blue_Export": 37123,
+    "Avg_Blue_Import": 9616,
+    "Avg_Green_Export": 937728,
+    "Avg_Green_Import": 156133
   },
   {
     "CountryName": "Nepal",
-    "Avg_Green_Import": 12681681,
-    "Avg_Green_Export": 193816,
-    "Avg_Blue_Import": 178097,
-    "Avg_Blue_Export": 402926
+    "Avg_Blue_Export": 36394,
+    "Avg_Blue_Import": 83977,
+    "Avg_Green_Export": 2303549,
+    "Avg_Green_Import": 176719
   },
   {
     "CountryName": "Netherlands",
-    "Avg_Green_Import": 1409619,
-    "Avg_Green_Export": 1483597,
-    "Avg_Blue_Import": 1303226,
-    "Avg_Blue_Export": 4151543
+    "Avg_Blue_Export": 1327096,
+    "Avg_Blue_Import": 1214100,
+    "Avg_Green_Export": 30399321,
+    "Avg_Green_Import": 2675193
   },
   {
     "CountryName": "New Zealand",
-    "Avg_Green_Import": 1789417,
-    "Avg_Green_Export": 160614,
-    "Avg_Blue_Import": 64981,
-    "Avg_Blue_Export": 418395
+    "Avg_Blue_Export": 218397,
+    "Avg_Blue_Import": 265331,
+    "Avg_Green_Export": 5682477,
+    "Avg_Green_Import": 13454907
   },
   {
     "CountryName": "Nicaragua",
-    "Avg_Green_Import": 258438,
-    "Avg_Green_Export": 10525,
-    "Avg_Blue_Import": 161454,
-    "Avg_Blue_Export": 32540
+    "Avg_Blue_Export": 4251,
+    "Avg_Blue_Import": 253748,
+    "Avg_Green_Export": 58681,
+    "Avg_Green_Import": 459984
   },
   {
     "CountryName": "Niger",
-    "Avg_Green_Import": 137814,
-    "Avg_Green_Export": 17140,
-    "Avg_Blue_Import": 10718,
-    "Avg_Blue_Export": 91804
+    "Avg_Blue_Export": 19379,
+    "Avg_Blue_Import": 47699,
+    "Avg_Green_Export": 1380450,
+    "Avg_Green_Import": 118837
   },
   {
     "CountryName": "Nigeria",
-    "Avg_Green_Import": 7022606,
-    "Avg_Green_Export": 2188338,
-    "Avg_Blue_Import": 57318,
-    "Avg_Blue_Export": 6827889
+    "Avg_Blue_Export": 896456,
+    "Avg_Blue_Import": 118637,
+    "Avg_Green_Export": 30773640,
+    "Avg_Green_Import": 5365768
   },
   {
     "CountryName": "North Korea",
-    "Avg_Green_Import": 505160,
-    "Avg_Green_Export": 6741,
-    "Avg_Blue_Import": 25843,
-    "Avg_Blue_Export": 7131
+    "Avg_Blue_Export": 14444,
+    "Avg_Blue_Import": 33075,
+    "Avg_Green_Export": 343598,
+    "Avg_Green_Import": 467731
   },
   {
     "CountryName": "Norway",
-    "Avg_Green_Import": 5969,
-    "Avg_Green_Export": 527885,
-    "Avg_Blue_Import": 17377,
-    "Avg_Blue_Export": 643233
+    "Avg_Blue_Export": 771300,
+    "Avg_Blue_Import": 167219,
+    "Avg_Green_Export": 20448938,
+    "Avg_Green_Import": 35592
   },
   {
     "CountryName": "Oman",
-    "Avg_Green_Import": 15028,
-    "Avg_Green_Export": 784535,
-    "Avg_Blue_Import": 29013,
-    "Avg_Blue_Export": 950868
+    "Avg_Blue_Export": 1587700,
+    "Avg_Blue_Import": 561754,
+    "Avg_Green_Export": 22657414,
+    "Avg_Green_Import": 2782630
   },
   {
     "CountryName": "Pakistan",
-    "Avg_Green_Import": 1014264289,
-    "Avg_Green_Export": 122794766,
-    "Avg_Blue_Import": 2713185583,
-    "Avg_Blue_Export": 193544356
-  },
-  {
-    "CountryName": "Palestine",
-    "Avg_Green_Import": 0,
-    "Avg_Green_Export": 37924,
-    "Avg_Blue_Import": 0,
-    "Avg_Blue_Export": 6537
+    "Avg_Blue_Export": 7922508,
+    "Avg_Blue_Import": 1123187898,
+    "Avg_Green_Export": 737001098,
+    "Avg_Green_Import": 355769568
   },
   {
     "CountryName": "Panama",
-    "Avg_Green_Import": 41701,
-    "Avg_Green_Export": 86434,
-    "Avg_Blue_Import": 2887,
-    "Avg_Blue_Export": 130634
+    "Avg_Blue_Export": 8221,
+    "Avg_Blue_Import": 2583,
+    "Avg_Green_Export": 249049,
+    "Avg_Green_Import": 36327
   },
   {
     "CountryName": "Papua New Guinea",
-    "Avg_Green_Import": 936660,
-    "Avg_Green_Export": 11131,
-    "Avg_Blue_Import": 490,
-    "Avg_Blue_Export": 16170
+    "Avg_Blue_Export": 5499,
+    "Avg_Blue_Import": 1496,
+    "Avg_Green_Export": 6427122,
+    "Avg_Green_Import": 4297774
   },
   {
     "CountryName": "Paraguay",
-    "Avg_Green_Import": 15831438,
-    "Avg_Green_Export": 51306,
-    "Avg_Blue_Import": 29624,
-    "Avg_Blue_Export": 117713
+    "Avg_Blue_Export": 11954,
+    "Avg_Blue_Import": 74532,
+    "Avg_Green_Export": 355223,
+    "Avg_Green_Import": 4982070
   },
   {
     "CountryName": "Peru",
-    "Avg_Green_Import": 377529,
-    "Avg_Green_Export": 196520,
-    "Avg_Blue_Import": 199415,
-    "Avg_Blue_Export": 490571
+    "Avg_Blue_Export": 30813,
+    "Avg_Blue_Import": 278885,
+    "Avg_Green_Export": 1279652,
+    "Avg_Green_Import": 433783
   },
   {
     "CountryName": "Philippines",
-    "Avg_Green_Import": 11255418,
-    "Avg_Green_Export": 411953,
-    "Avg_Blue_Import": 89692,
-    "Avg_Blue_Export": 601619
+    "Avg_Blue_Export": 326097,
+    "Avg_Blue_Import": 143900,
+    "Avg_Green_Export": 7919543,
+    "Avg_Green_Import": 7389148
   },
   {
     "CountryName": "Poland",
-    "Avg_Green_Import": 4195635,
-    "Avg_Green_Export": 1414376,
-    "Avg_Blue_Import": 130303,
-    "Avg_Blue_Export": 2141595
+    "Avg_Blue_Export": 815282,
+    "Avg_Blue_Import": 505120,
+    "Avg_Green_Export": 34739102,
+    "Avg_Green_Import": 36226875
   },
   {
     "CountryName": "Portugal",
-    "Avg_Green_Import": 242183,
-    "Avg_Green_Export": 593549,
-    "Avg_Blue_Import": 52684,
-    "Avg_Blue_Export": 1295092
+    "Avg_Blue_Export": 326056,
+    "Avg_Blue_Import": 156933,
+    "Avg_Green_Export": 9949339,
+    "Avg_Green_Import": 923418
   },
   {
     "CountryName": "Qatar",
-    "Avg_Green_Import": 644,
-    "Avg_Green_Export": 318836,
-    "Avg_Blue_Import": 76,
-    "Avg_Blue_Export": 518175
+    "Avg_Blue_Export": 374945,
+    "Avg_Blue_Import": 363,
+    "Avg_Green_Export": 3674360,
+    "Avg_Green_Import": 995
   },
   {
     "CountryName": "Rep Congo",
-    "Avg_Green_Import": 172173,
-    "Avg_Green_Export": 11157,
-    "Avg_Blue_Import": 2141,
-    "Avg_Blue_Export": 17306
+    "Avg_Blue_Export": 255664,
+    "Avg_Blue_Import": 2273,
+    "Avg_Green_Export": 597942,
+    "Avg_Green_Import": 127001
   },
   {
     "CountryName": "Rest of Africa",
-    "Avg_Green_Import": 2598094,
-    "Avg_Green_Export": 101237,
-    "Avg_Blue_Import": 177450,
-    "Avg_Blue_Export": 300591
+    "Avg_Blue_Export": 704262,
+    "Avg_Blue_Import": 3015889,
+    "Avg_Green_Export": 11270537,
+    "Avg_Green_Import": 102078756
   },
   {
     "CountryName": "Rest of Americas",
-    "Avg_Green_Import": 71862,
-    "Avg_Green_Export": 101791,
-    "Avg_Blue_Import": 9468,
-    "Avg_Blue_Export": 238612
+    "Avg_Blue_Export": 22756,
+    "Avg_Blue_Import": 36258,
+    "Avg_Green_Export": 1311272,
+    "Avg_Green_Import": 160774
   },
   {
     "CountryName": "Rest of Asia-Pacific",
-    "Avg_Green_Import": 997981,
-    "Avg_Green_Export": 542556,
-    "Avg_Blue_Import": 36050,
-    "Avg_Blue_Export": 652421
+    "Avg_Blue_Export": 228203,
+    "Avg_Blue_Import": 54797,
+    "Avg_Green_Export": 7938821,
+    "Avg_Green_Import": 396804
   },
   {
     "CountryName": "Rest of Europe",
-    "Avg_Green_Import": 72,
-    "Avg_Green_Export": 39812,
-    "Avg_Blue_Import": 52,
-    "Avg_Blue_Export": 46503
+    "Avg_Blue_Export": 45630,
+    "Avg_Blue_Import": 259,
+    "Avg_Green_Export": 1086671,
+    "Avg_Green_Import": 236
   },
   {
     "CountryName": "Romania",
-    "Avg_Green_Import": 22343756,
-    "Avg_Green_Export": 805367,
-    "Avg_Blue_Import": 822860,
-    "Avg_Blue_Export": 611473
+    "Avg_Blue_Export": 616781,
+    "Avg_Blue_Import": 1453152,
+    "Avg_Green_Export": 17269580,
+    "Avg_Green_Import": 40474972
   },
   {
     "CountryName": "Rwanda",
-    "Avg_Green_Import": 7347653,
-    "Avg_Green_Export": 34979,
-    "Avg_Blue_Import": 23988,
-    "Avg_Blue_Export": 226429
+    "Avg_Blue_Export": 3570131,
+    "Avg_Blue_Import": 264822,
+    "Avg_Green_Export": 32667583,
+    "Avg_Green_Import": 13881414
   },
   {
     "CountryName": "Saudi Arabia",
-    "Avg_Green_Import": 262394,
-    "Avg_Green_Export": 2578440,
-    "Avg_Blue_Import": 292331,
-    "Avg_Blue_Export": 3701691
+    "Avg_Blue_Export": 2261133,
+    "Avg_Blue_Import": 5054952,
+    "Avg_Green_Export": 91031769,
+    "Avg_Green_Import": 7315639
   },
   {
     "CountryName": "Senegal",
-    "Avg_Green_Import": 646512,
-    "Avg_Green_Export": 76854,
-    "Avg_Blue_Import": 583993,
-    "Avg_Blue_Export": 209662
+    "Avg_Blue_Export": 63052,
+    "Avg_Blue_Import": 1727957,
+    "Avg_Green_Export": 1042540,
+    "Avg_Green_Import": 733585
   },
   {
     "CountryName": "Sierra Leone",
-    "Avg_Green_Import": 19437,
-    "Avg_Green_Export": 5787,
-    "Avg_Blue_Import": 196,
-    "Avg_Blue_Export": 14693
+    "Avg_Blue_Export": 30591,
+    "Avg_Blue_Import": 1328,
+    "Avg_Green_Export": 1160223,
+    "Avg_Green_Import": 75073
   },
   {
     "CountryName": "Singapore",
-    "Avg_Green_Import": 5,
-    "Avg_Green_Export": 576911,
-    "Avg_Blue_Import": 2186,
-    "Avg_Blue_Export": 756190
+    "Avg_Blue_Export": 130575,
+    "Avg_Blue_Import": 8913,
+    "Avg_Green_Export": 1976074,
+    "Avg_Green_Import": 402
   },
   {
     "CountryName": "Slovakia",
-    "Avg_Green_Import": 1309883,
-    "Avg_Green_Export": 193568,
-    "Avg_Blue_Import": 135071,
-    "Avg_Blue_Export": 197283
+    "Avg_Blue_Export": 97863,
+    "Avg_Blue_Import": 222094,
+    "Avg_Green_Export": 2553396,
+    "Avg_Green_Import": 1964117
   },
   {
     "CountryName": "Slovenia",
-    "Avg_Green_Import": 83972,
-    "Avg_Green_Export": 197198,
-    "Avg_Blue_Import": 1767,
-    "Avg_Blue_Export": 475461
+    "Avg_Blue_Export": 73999,
+    "Avg_Blue_Import": 16271,
+    "Avg_Green_Export": 1653036,
+    "Avg_Green_Import": 649092
   },
   {
     "CountryName": "Somalia",
-    "Avg_Green_Import": 41010,
-    "Avg_Green_Export": 67328,
-    "Avg_Blue_Import": 2409,
-    "Avg_Blue_Export": 39974
+    "Avg_Blue_Export": 483963,
+    "Avg_Blue_Import": 18992,
+    "Avg_Green_Export": 14876251,
+    "Avg_Green_Import": 510336
   },
   {
     "CountryName": "South Africa",
-    "Avg_Green_Import": 3858961,
-    "Avg_Green_Export": 303907,
-    "Avg_Blue_Import": 335140,
-    "Avg_Blue_Export": 1050865
+    "Avg_Blue_Export": 1003777,
+    "Avg_Blue_Import": 3838840,
+    "Avg_Green_Export": 21541887,
+    "Avg_Green_Import": 34876093
   },
   {
     "CountryName": "South Korea",
-    "Avg_Green_Import": 488978,
-    "Avg_Green_Export": 1564298,
-    "Avg_Blue_Import": 123589,
-    "Avg_Blue_Export": 2304314
+    "Avg_Blue_Export": 1608017,
+    "Avg_Blue_Import": 6894306,
+    "Avg_Green_Export": 36970831,
+    "Avg_Green_Import": 5455131
   },
   {
     "CountryName": "South Sudan",
-    "Avg_Green_Import": 28309,
-    "Avg_Green_Export": 3946,
-    "Avg_Blue_Import": 416,
-    "Avg_Blue_Export": 2491
+    "Avg_Blue_Export": 446660,
+    "Avg_Blue_Import": 695,
+    "Avg_Green_Export": 161419773,
+    "Avg_Green_Import": 19101
   },
   {
     "CountryName": "Spain",
-    "Avg_Green_Import": 9115713,
-    "Avg_Green_Export": 2697406,
-    "Avg_Blue_Import": 2725815,
-    "Avg_Blue_Export": 7191409
+    "Avg_Blue_Export": 1189887,
+    "Avg_Blue_Import": 1834222,
+    "Avg_Green_Export": 31076847,
+    "Avg_Green_Import": 6592053
   },
   {
     "CountryName": "Sri Lanka",
-    "Avg_Green_Import": 6556749,
-    "Avg_Green_Export": 357779,
-    "Avg_Blue_Import": 25939,
-    "Avg_Blue_Export": 1490894
+    "Avg_Blue_Export": 60152,
+    "Avg_Blue_Import": 193580,
+    "Avg_Green_Export": 5027074,
+    "Avg_Green_Import": 2504308
   },
   {
     "CountryName": "Sudan/North Sudan (2010/2011)",
-    "Avg_Green_Import": 1043612,
-    "Avg_Green_Export": 128280,
-    "Avg_Blue_Import": 1402926,
-    "Avg_Blue_Export": 234264
+    "Avg_Blue_Export": 1624494,
+    "Avg_Blue_Import": 22432830,
+    "Avg_Green_Export": 118323260,
+    "Avg_Green_Import": 214406054
   },
   {
     "CountryName": "Sweden",
-    "Avg_Green_Import": 290272,
-    "Avg_Green_Export": 1014404,
-    "Avg_Blue_Import": 42323,
-    "Avg_Blue_Export": 1355659
+    "Avg_Blue_Export": 1839755,
+    "Avg_Blue_Import": 139751,
+    "Avg_Green_Export": 43530237,
+    "Avg_Green_Import": 598153
   },
   {
     "CountryName": "Switzerland",
-    "Avg_Green_Import": 26518,
-    "Avg_Green_Export": 857591,
-    "Avg_Blue_Import": 7277,
-    "Avg_Blue_Export": 668907
+    "Avg_Blue_Export": 846950,
+    "Avg_Blue_Import": 32519,
+    "Avg_Green_Export": 22170959,
+    "Avg_Green_Import": 702724
   },
   {
     "CountryName": "Syria",
-    "Avg_Green_Import": 174941,
-    "Avg_Green_Export": 128774,
-    "Avg_Blue_Import": 186021,
-    "Avg_Blue_Export": 211241
+    "Avg_Blue_Export": 373066,
+    "Avg_Blue_Import": 95393,
+    "Avg_Green_Export": 10348971,
+    "Avg_Green_Import": 473286
   },
   {
     "CountryName": "Tajikistan",
-    "Avg_Green_Import": 3112752,
-    "Avg_Green_Export": 125395,
-    "Avg_Blue_Import": 11273727,
-    "Avg_Blue_Export": 468454
+    "Avg_Blue_Export": 21854,
+    "Avg_Blue_Import": 323089,
+    "Avg_Green_Export": 1163045,
+    "Avg_Green_Import": 101000
   },
   {
     "CountryName": "Tanzania",
-    "Avg_Green_Import": 12689082,
-    "Avg_Green_Export": 31441,
-    "Avg_Blue_Import": 39083,
-    "Avg_Blue_Export": 120314
+    "Avg_Blue_Export": 2477874,
+    "Avg_Blue_Import": 5390079,
+    "Avg_Green_Export": 13188751,
+    "Avg_Green_Import": 945251218
   },
   {
     "CountryName": "Thailand",
-    "Avg_Green_Import": 40011332,
-    "Avg_Green_Export": 671979,
-    "Avg_Blue_Import": 6154477,
-    "Avg_Blue_Export": 760574
+    "Avg_Blue_Export": 201310,
+    "Avg_Blue_Import": 117685516,
+    "Avg_Green_Export": 4053646,
+    "Avg_Green_Import": 413371715
   },
   {
     "CountryName": "Togo",
-    "Avg_Green_Import": 1908108,
-    "Avg_Green_Export": 21415,
-    "Avg_Blue_Import": 3935,
-    "Avg_Blue_Export": 30782
+    "Avg_Blue_Export": 7174,
+    "Avg_Blue_Import": 1127,
+    "Avg_Green_Export": 397038,
+    "Avg_Green_Import": 1261514
   },
   {
     "CountryName": "Tunisia",
-    "Avg_Green_Import": 473911,
-    "Avg_Green_Export": 458238,
-    "Avg_Blue_Import": 92357,
-    "Avg_Blue_Export": 366988
+    "Avg_Blue_Export": 290821,
+    "Avg_Blue_Import": 101088,
+    "Avg_Green_Export": 7212861,
+    "Avg_Green_Import": 2359896
   },
   {
     "CountryName": "Turkey",
-    "Avg_Green_Import": 39720842,
-    "Avg_Green_Export": 42786791,
-    "Avg_Blue_Import": 2395605,
-    "Avg_Blue_Export": 8136095
+    "Avg_Blue_Export": 719432,
+    "Avg_Blue_Import": 3282472,
+    "Avg_Green_Export": 29326548,
+    "Avg_Green_Import": 33119591
   },
   {
     "CountryName": "Turkmenistan",
-    "Avg_Green_Import": 2282729,
-    "Avg_Green_Export": 296846,
-    "Avg_Blue_Import": 7951787,
-    "Avg_Blue_Export": 281585
+    "Avg_Blue_Export": 31675,
+    "Avg_Blue_Import": 1925084,
+    "Avg_Green_Export": 1992370,
+    "Avg_Green_Import": 482705
   },
   {
     "CountryName": "USSR/Russian Federation (1990/1991)",
-    "Avg_Green_Import": 216453019,
-    "Avg_Green_Export": 5104420,
-    "Avg_Blue_Import": 12180342,
-    "Avg_Blue_Export": 3520333
+    "Avg_Blue_Export": 2639694,
+    "Avg_Blue_Import": 85960994,
+    "Avg_Green_Export": 147100345,
+    "Avg_Green_Import": 956843118
   },
   {
     "CountryName": "Uganda",
-    "Avg_Green_Import": 35098747,
-    "Avg_Green_Export": 28827,
-    "Avg_Blue_Import": 82702,
-    "Avg_Blue_Export": 77318
+    "Avg_Blue_Export": 6676250,
+    "Avg_Blue_Import": 2919208,
+    "Avg_Green_Export": 59660452,
+    "Avg_Green_Import": 785626661
   },
   {
     "CountryName": "Ukraine",
-    "Avg_Green_Import": 34078884,
-    "Avg_Green_Export": 1069555,
-    "Avg_Blue_Import": 524833,
-    "Avg_Blue_Export": 596221
+    "Avg_Blue_Export": 469379,
+    "Avg_Blue_Import": 3165457,
+    "Avg_Green_Export": 21504853,
+    "Avg_Green_Import": 236879595
   },
   {
     "CountryName": "United Arab Emirates",
-    "Avg_Green_Import": 1476944,
-    "Avg_Green_Export": 2795959,
-    "Avg_Blue_Import": 1130341,
-    "Avg_Blue_Export": 3380090
+    "Avg_Blue_Export": 8984550,
+    "Avg_Blue_Import": 1960309,
+    "Avg_Green_Export": 134676326,
+    "Avg_Green_Import": 558458
   },
   {
     "CountryName": "United Kingdom",
-    "Avg_Green_Import": 746846,
-    "Avg_Green_Export": 3987535,
-    "Avg_Blue_Import": 86360,
-    "Avg_Blue_Export": 11781293
+    "Avg_Blue_Export": 6710393,
+    "Avg_Blue_Import": 540903,
+    "Avg_Green_Export": 345337833,
+    "Avg_Green_Import": 2935203
   },
   {
     "CountryName": "United States of America",
-    "Avg_Green_Import": 78278971,
-    "Avg_Green_Export": 16871713,
-    "Avg_Blue_Import": 11672961,
-    "Avg_Blue_Export": 39954064
+    "Avg_Blue_Export": 10758337,
+    "Avg_Blue_Import": 17788320,
+    "Avg_Green_Export": 160564870,
+    "Avg_Green_Import": 179165689
   },
   {
     "CountryName": "Uruguay",
-    "Avg_Green_Import": 3143981,
-    "Avg_Green_Export": 54945,
-    "Avg_Blue_Import": 47410,
-    "Avg_Blue_Export": 152162
+    "Avg_Blue_Export": 16700,
+    "Avg_Blue_Import": 56960,
+    "Avg_Green_Export": 1052679,
+    "Avg_Green_Import": 1201326
   },
   {
     "CountryName": "Uzbekistan",
-    "Avg_Green_Import": 166285356,
-    "Avg_Green_Export": 993899,
-    "Avg_Blue_Import": 142333340,
-    "Avg_Blue_Export": 515512
+    "Avg_Blue_Export": 174303,
+    "Avg_Blue_Import": 1565275,
+    "Avg_Green_Export": 12335230,
+    "Avg_Green_Import": 644071
   },
   {
     "CountryName": "Venezuela",
-    "Avg_Green_Import": 27271,
-    "Avg_Green_Export": 72198,
-    "Avg_Blue_Import": 9084,
-    "Avg_Blue_Export": 131006
+    "Avg_Blue_Export": 16869,
+    "Avg_Blue_Import": 15443,
+    "Avg_Green_Export": 588350,
+    "Avg_Green_Import": 56328
   },
   {
     "CountryName": "Viet Nam",
-    "Avg_Green_Import": 77515639,
-    "Avg_Green_Export": 4355263,
-    "Avg_Blue_Import": 2415937,
-    "Avg_Blue_Export": 3146780
+    "Avg_Blue_Export": 470776,
+    "Avg_Blue_Import": 1884847,
+    "Avg_Green_Export": 4484099,
+    "Avg_Green_Import": 10509496
   },
   {
     "CountryName": "Yemen Arab Republic/Yemen (1990/1991)",
-    "Avg_Green_Import": 66031,
-    "Avg_Green_Export": 226515,
-    "Avg_Blue_Import": 443127,
-    "Avg_Blue_Export": 513973
+    "Avg_Blue_Export": 763429,
+    "Avg_Blue_Import": 71651,
+    "Avg_Green_Export": 58013103,
+    "Avg_Green_Import": 34786
   },
   {
     "CountryName": "Yugoslavia/Serbia (1991/1992)",
-    "Avg_Green_Import": 6238974,
-    "Avg_Green_Export": 111170,
-    "Avg_Blue_Import": 406921,
-    "Avg_Blue_Export": 86725
+    "Avg_Blue_Export": 126174,
+    "Avg_Blue_Import": 282315,
+    "Avg_Green_Export": 2915003,
+    "Avg_Green_Import": 5282458
   },
   {
     "CountryName": "Zambia",
-    "Avg_Green_Import": 802298,
-    "Avg_Green_Export": 31630,
-    "Avg_Blue_Import": 22179,
-    "Avg_Blue_Export": 104586
+    "Avg_Blue_Export": 498089,
+    "Avg_Blue_Import": 1056233,
+    "Avg_Green_Export": 2859029,
+    "Avg_Green_Import": 170845859
   },
   {
     "CountryName": "Zimbabwe",
-    "Avg_Green_Import": 1539176,
-    "Avg_Green_Export": 58893,
-    "Avg_Blue_Import": 84107,
-    "Avg_Blue_Export": 143021
+    "Avg_Blue_Export": 509410,
+    "Avg_Blue_Import": 33007348,
+    "Avg_Green_Export": 3199761,
+    "Avg_Green_Import": 49566488
   }
  ]
